@@ -1,0 +1,17 @@
+torch==1.9.0
+torchtext
+seaborn
+configargparse
+PyYAML
+tensorboard
+tensorboardX
+cython
+spacy
+pandas
+numpy
+pyvi
+benepar
+stanfordcorenlp
+openpyxl
+sacrebleu==1.5.1
+fairseq==0.10.2

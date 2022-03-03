@@ -1,0 +1,7283 @@
+NP VP .
+PP NP .
+NP VP .
+ADVP SBAR VP .
+WHNP SQ .
+NP : S
+NP ADVP VP .
+CC NP VP .
+CC ADVP NP VP .
+FRAG CC S .
+NP NP .
+S : S .
+NP , PP PP .
+NP : NP .
+NP VP .
+NP VP .
+NP VP .
+NP , NP VP .
+S FRAG .
+NP VP .
+ADVP , WHNP SQ .
+NP VP .
+ADVP , ADVP NP VP .
+VP .
+ADVP NP-TMP , NP VP .
+PP , NP VP .
+NP VP .
+ADVP NP VP .
+NP VP .
+CC S VP .
+CC NP VP .
+CC NP VP
+NP VP .
+CC ADVP , NP VP .
+CC NP VP .
+NP VP .
+CC NP VP
+CC ADVP NP VP
+CC NP VP .
+CC NP VP . NP VP .
+S , CC S .
+S , NP VP .
+NP VP .
+SBAR , NP VP .
+RB NP .
+CC S , S , CC S .
+S : S : CC S .
+ADVP ADVP PP , NP VP .
+CC NP VP .
+CC VP .
+CC SBAR , NP VP .
+S , CC S .
+NP SBAR .
+S , S .
+PRN WHADVP SQ . NNP
+NP VP .
+NP VP .
+WHADVP SQ .
+CC ADVP NP , NP S . INTJ , NP VP . NNP
+ADVP NP VP .
+CC ADVP NP VP .
+NP VP .
+CC SBAR , S VP .
+DT NN . S , RB S .
+ADVP NP VP .
+S , NP VP .
+S , NP VP .
+NP VP .
+NP VP .
+CC SBAR , NP VP .
+CC NP VP .
+NP VP .
+SBAR PRN NP VP .
+CC NP VP . S , VP NP . NNP
+IN S .
+ADVP NP VP .
+NP VP .
+NP ADVP VP .
+ADVP NP VP .
+NP ADVP VP .
+NP : SBARQ
+INTJ , ADVP NP VP . WHADJP SQ .
+CC NP : NP VP .
+NP VP . NP VP .
+CC NP VP .
+NP ADVP VP .
+NP VP .
+NP VP .
+ADVP ADVP , NP VP .
+ADVP VP .
+S : FRAG .
+CC ADVP , NP VP .
+CC NP VP .
+ADVP , NP .
+S : S .
+CC NP VP .
+ADVP NP SBAR . NNP
+ADVP , NP VP .
+NP VP .
+ADVP NP VP .
+NP VP .
+S , CONJP S .
+CC PP , NP VP .
+NP VP .
+CC NP VP .
+NP VP . NNP
+CC SBAR , NP VP .
+NP VP .
+NP VP .
+ADVP , CC S .
+NP VP .
+NP VP .
+ADVP NP , VP .
+CC NP VP .
+S , CC S .
+CC SBAR , NP VP . CC NP VP .
+CC NP VP .
+CC ADVP , NP VP .
+CC NP ADVP VP .
+INTJ ADVP , NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP ADVP VP .
+VP .
+WHADVP SQ .
+CC WHADVP SQ .
+VP .
+NP VP .
+CC ADVP PP , NP VP .
+CC SBAR , NP VP .
+NP VP .
+S , CC S .
+CC S NP VP .
+NP VP .
+ADVP WHADVP SQ .
+RB SBAR , PP , PP .
+NP VP . NP ADVP .
+PP , NP VP .
+NP VP .
+CC WHADVP SQ .
+NP VP .
+UH .
+CC NP VP .
+CC ADVP NP VP . NNP
+FRAG NP . NNP
+S , NP VP . NNP
+NP VP .
+NP VP .
+SBAR , NP VP .
+PP , VP .
+CC NP , INTJ , NP VP .
+S , NP VP .
+CC ADVP NP VP .
+CC ADVP NP VP . NNP
+INTJ , ADVP VP . NP VP .
+NP VP .
+CC NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+CC ADVP NP VP .
+S , CC S .
+ADVP PRN , PP , SQ .
+PP , NP VP .
+INTJ , NP VP .
+IN NP .
+NP VP .
+SINV : S .
+NP VP .
+NP VP .
+NP VP .
+S , CC S . NN .
+NP VP .
+SBAR , ADVP NP VP .
+CC VP .
+NP VP .
+PP , S , CC S .
+CC NP VP . NP VP . FRAG .
+NP NP VP .
+CC NP VP .
+S , CC S .
+CC NP VP . NNP
+CC S , CC S .
+NP VP . NP VP .
+S , S .
+NP VP .
+CC NP VP . CC ADVP NP VP .
+CC NP VP .
+SBAR , NP VP .
+NP VP .
+CC ADVP NP VP .
+CC S , CC S .
+NP VP .
+NP VP .
+CC PRN NP VP .
+CC NP VP .
+NP : NP
+S , CC S .
+S , CC S .
+S , NP VP .
+NP VP .
+NP VP .
+PP , NP VP .
+NP PP .
+CC NP .
+NP VP . NP VP .
+ADVP , NP VP .
+NP VP .
+NP VP .
+WHNP SQ .
+S : S .
+INTJ , FRAG , FRAG .
+NP
+NP VP .
+CC S , CC S .
+WHNP SQ .
+NP VP . NNP
+S , NP ADVP VP .
+NP VP .
+NP VP .
+PP , NP VP .
+PP , NP VP .
+CC NP VP .
+NP VP .
+CC PP NP VP .
+NP-TMP NP VP . NNP
+ADVP NP ADVP VP .
+NP VP .
+SBAR , NP VP . CC ADVP , PP , NP VP . NP VP .
+NP VP .
+S , NP VP .
+S , CC S .
+CC NP VP .
+ADVP , NP VP .
+ADVP , SBAR , S , NP-TMP NP VP .
+S , CC S .
+S , CC S .
+S , NP VP .
+VP . NP VP .
+NP NP .
+NP ADVP VP . NP VP .
+NP VP .
+JJ . NP ADVP VP .
+NP ADVP VP .
+NP VP . S , S , CC S .
+NP VP .
+S , NP VP .
+S , CC S .
+SBAR , NP VP .
+NP VP .
+UH . ADVP NP VP .
+S , NP VP .
+NP VP .
+NP ADVP VP .
+CC NP VP .
+NP VP .
+NFP S : S . NNP
+CC NP ADVP VP .
+CC ADVP NP VP .
+CC ADVP , NP VP .
+S , S , S .
+NP VP .
+S , CC S .
+NP , PP . RB NP .
+S : CC S . NP , VP .
+CC NP VP .
+ADVP , NP VP . CC SBAR , NP VP .
+NP , NP VP . MD NP VP . NNP
+NP VP .
+NP , NP , NP CC NP .
+ADVP NP VP .
+NP VP . ADVP VBZ NP VP . NP VP .
+NP , NP , NP .
+NP VP .
+S , NP VP .
+VP .
+NP VP .
+S , CC S .
+CC ADVP SBAR , NP VP .
+JJ NN .
+S , VP NP .
+NP-TMP NP VP .
+PP , NP VP .
+NP VP .
+ADVP , NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+PP , NP VP .
+NP VP .
+S , CC S . S VP . CD .
+CD .
+S : S .
+PP , VP .
+INTJ , NP .
+NP : NP .
+WHNP SQ .
+NP : NP . CD .
+S , CC S .
+NP-TMP , NP VP .
+S , CC S .
+VP .
+CC NP VP . SBAR : NP VP .
+CC S , CC S .
+ADVP , S .
+NP VP . NP VP .
+NP VP .
+INTJ NP VP .
+ADVP , NP VP .
+ADVP , ADVP , NP VP .
+NP : SBAR .
+SBAR , NP VP .
+S : S . NP VP .
+S , NP VP .
+CC NP VP .
+VP .
+VBN PP PP .
+CC SBAR .
+S : S .
+NP : S .
+NP : SBAR .
+ADVP , SBAR NP VP .
+WHADVP SQ . NP VP . NP VP .
+CC NP VP . WHNP S .
+NP VP .
+CC SBAR ADVP NP VP .
+NP VP .
+SBAR , WHADVP SQ .
+ADVP , NP VP .
+NP VP .
+S , CC S . NP VP .
+CC S : NP VP .
+CC S , CC S .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+SBAR , NP VP .
+ADVP , NP VP .
+S : S . NNP
+NP ADJP .
+ADVP , NP VP .
+NP VP .
+S : S .
+MD NP VP .
+NP : SBARQ
+NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+SBAR NP VP .
+NP VP . NP VP .
+ADVP WHADVP SQ .
+ADVP SBAR , NP VP .
+NP VP .
+S , CC S .
+S , CC S .
+ADVP , NP VP .
+CC ADVP NP VP .
+PP , NP VP .
+NP VP .
+ADVP , SBAR , NP VP . NNP
+NP VP .
+S CC S . RB SBAR CC SBAR . NP VP .
+S , NP VP . NP VP .
+CC S .
+CC PRN NP VP .
+PP , NP VP . CC SBAR : NP VP .
+S , CC S .
+CC PP SBAR , NP VP .
+CC SBAR VP .
+RB S , CC S .
+ADVP , NP ADVP VP . NP , VP .
+NP-TMP , NP VP .
+NP VP .
+CC ADVP , SBAR VP .
+S , CC S .
+PP , SBAR VP .
+PP , NP VP .
+S , CC S .
+S , CC S .
+CC NP VP .
+S , VP NP .
+VBD NP VP .
+S , CC S . NNP
+NP VP . NP VP .
+SBAR , NP VP .
+CC SBAR , NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP , VP .
+NP VP .
+NP VP . NNP
+PP , NP VP .
+S CC S .
+NP PP .
+CC NP VP .
+S , NP VP .
+ADVP NP VP .
+CC S , CC S .
+NP VP .
+NP VP .
+S , S .
+ADVP NP ADVP NP PP .
+INTJ NP VP .
+NP : S
+NP : S .
+NP VP .
+S VP .
+CC MD NP .
+CC ADVP VP SBAR .
+VP .
+SBAR , NP VP .
+FRAG CC S .
+PP : NP VP . NP VP .
+S , CC S .
+NP : S .
+SBAR , NP VP .
+NP SBAR .
+NP : NP
+MD NP VP .
+S : CC S .
+S : S : S .
+RB IN S .
+NP , ADVP , VP .
+S , FRAG . NNP
+NP VP . NNP
+CC NP VP .
+NP ADVP VP .
+NP VP .
+SBAR , NP VP . NNP
+CC ADVP NP VP .
+VP .
+NP VP .
+NP VP .
+NP ADVP VP .
+INTJ , PP , NP ADVP VP .
+CC SBAR , NP VP .
+PP , PP , NP VP .
+VP .
+CC ADVP , NP VP .
+PP , S , CC S .
+NP VP .
+SBAR : NP VP .
+ADVP , S , CC S .
+S , S , S , CC S .
+S , CC S .
+NP VP .
+S , NP VP . NP VP .
+NP , NP , NP .
+CC NP VP .
+INTJ , INTJ , NP VP .
+NP VP . NNP
+VP . NP VP . NP VP . NNP
+NP VP .
+PP , NP VP . NNP
+S , CC S .
+NP , PP , VP .
+S : S . NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+ADVP , PP , NP VP .
+NP VP . NNP
+ADVP NP VP .
+S : S .
+SBAR , NP VP .
+PP , S , CC S .
+CC NP VP .
+ADVP SBAR VP .
+S , CC S .
+PP , NP VP .
+CC NP VP .
+CC NP VP .
+CC NP ADVP VP .
+MD NP VP .
+ADVP , NP VP . RB .
+PP , S , NP .
+ADVP , S VP .
+CC NP VP .
+CC SBAR VP .
+NP VP . NP VP .
+NP VP . NNP
+NP : S : S .
+WHADVP SQ .
+NP VP .
+PP , SBAR , NP ADVP VP .
+ADVP , NP VP .
+CC NP VP .
+ADVP , SBAR , NP VP .
+ADVP , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+JJ , RB JJ .
+SBAR , NP VP .
+S CC S .
+CC NP VP .
+ADVP ADVP , NP-TMP NP VP .
+NP VP . NP VP .
+MD NP VP .
+CC ADVP SBAR VP .
+NP VP .
+S : S .
+VP . PP VP .
+INTJ , NP VP .
+S VP .
+ADVP NP VP .
+S , CC S .
+NP SBAR .
+ADVP , SBAR , VP .
+PP , NP .
+ADVP , NP VP .
+CC NP VP .
+NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+S , CC S . NP VP .
+CC ADVP NP VP .
+PP , PP , NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+NP VP .
+VP .
+ADVP , S VP . VP .
+ADJP , ADJP .
+PP NP VP .
+PP NP VP .
+NP VP .
+ADVP NP VP .
+S : S .
+CC NP VP . CC NP ADVP VP .
+NP VP .
+ADVP NP VP .
+CC ADVP SBAR NP VP .
+CC NP VP .
+ADVP NP PP .
+NP , VP .
+ADVP NP VP .
+CC NP VP . NP VP .
+CC NP VP .
+NP VP .
+ADVP VP .
+ADVP , NP VP .
+NP VP .
+CC NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+NP : S .
+NP VP .
+NP VP .
+NP VP .
+CC , SBAR , S , S .
+NP VP .
+CC ADVP , SBAR , NP ADVP VP .
+CC ADVP , NP VP .
+NP VP .
+SBAR VP .
+ADVP NP VP .
+NP VP .
+RB JJ SBAR .
+S , CC S .
+CC NP VP .
+NP : SBARQ
+PP , NP VP .
+NP VP .
+NP PP ADVP . NNP
+WHADVP SQ .
+ADVP , S , S .
+INTJ , S , CC S .
+NP VP .
+NP VP .
+ADVP NP VP . NP VP .
+NP VP .
+NP ADJP ADVP .
+NP VP .
+S , CC S .
+ADVP , NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+PP NP VP .
+SBAR VP .
+S , CC S .
+NP : NP , NP . INTJ , INTJ .
+NP : ADVP . NP : S . NNP
+ADVP , NP VP .
+NP VP .
+ADVP , NP VP .
+PP , NP VP .
+S , CC S .
+SBAR , NP VP . NP VP . NP VP .
+NP VP .
+S , CC S .
+NP-TMP , NP VP .
+NP VP .
+NP VP .
+NP , CC S . JJ .
+CC NP VP . CC NP PRN VP . S : S .
+S CC S . CC NP VP .
+NP : S .
+NP VP .
+ADVP , WHNP SQ .
+NP VP .
+ADVP , NP VP .
+S : S .
+NP VP .
+NP VP .
+ADVP WHADVP SQ .
+ADVP NP VP .
+PP , SBAR NP VP .
+CC PP NP VP .
+NP-TMP , NP VP .
+ADVP , S , CC IN S .
+NP VP .
+PP NP VP .
+VP .
+NP VP .
+INTJ , VP .
+NP VP .
+CC NP VP .
+WHADVP . INTJ , S , S , S . WHNP PP .
+NP VP . NP VP .
+NP VP .
+S CC S .
+S , CC S , S .
+NP VP .
+NP VP .
+CC SBAR NP VP .
+NP VP . NP VP . NNP
+NP VP .
+VP .
+S , S .
+NP VP .
+NP VP .
+CC WHNP SQ .
+CC NP VP . RB . NP VP .
+ADVP NP VP .
+INTJ , NP VP .
+PP , NP VP .
+ADVP VP NP .
+CC S , S . NP VP . NNP
+ADVP VP .
+SBAR , NP VP .
+PP , NP .
+NP VP . NNP
+NP VP . NNP
+NP VP .
+NP VP . NP VP .
+ADVP NP VP . UH . NNP
+S : S .
+NP VP .
+S , NP VP .
+NP VP .
+S , CC S .
+CC NP VP . NNP
+SBAR , NP ADVP VP .
+NP VP .
+NP VP .
+S , NP VP .
+ADVP NP VP .
+ADVP NP VP .
+CC ADVP , PP , NP VP .
+S , CC S .
+CC NP VP . NP VP .
+NP VP .
+NP VP . NP VP .
+INTJ SBAR , NP VP .
+CC NP VP .
+CC ADVP ADVP NP VP . NP VP .
+NP ADVP VP .
+NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+NP : S .
+NP VP .
+S : S .
+S , NP VP .
+NP VP .
+S , CC S .
+NP VP .
+ADVP IN NP .
+ADVP NP VP .
+CC NP VP . NP VP .
+NP VP .
+NP VP .
+NN . NN .
+ADVP , NP VP .
+S , CC S .
+CC NP VP .
+CC ADVP NP VP .
+CC SBAR NP , ADJP .
+NP VP .
+NP VP .
+WHADVP SQ .
+CC NP VP .
+NP VP .
+S : S .
+CC SBAR NP VP .
+S , CC S .
+S : S : CC S .
+S , NP VP .
+S , CC S .
+CC S , S .
+ADVP , NP VP . S , CC S . NNP
+NP ADVP VP .
+CC S : NP VP .
+WHNP SQ .
+CC PP , NP VP .
+S , CC S .
+ADVP , NP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+PP , NP VP .
+CC NP VP .
+CC ADVP NP-TMP NP VP , CC S .
+S : CC S . PP , NP VP .
+ADVP NP VP .
+ADVP NP VP . S , CC S .
+S , CC S .
+SBAR , NP VP . NP VP . CC S : FRAG .
+NP : S .
+NP VP .
+VP .
+CC ADVP , NP VP .
+ADVP VP .
+SBAR , NP VP . VP .
+CC PP .
+NP VP .
+PP , NP VP .
+S , S , S .
+NP : S .
+CC ADVP NP-TMP NP VP .
+S CC S , S , CC S .
+S : S .
+S , CC S .
+CC NP VP .
+NP VP . NP PRN VP .
+ADVP NP VP .
+CC PP , NP VP .
+CC NP VP .
+NP VP . NP VP . CC NP VP .
+MD NP VP .
+ADVP NP VP .
+ADVP VP .
+NP VP .
+ADVP NP VP .
+NP VP .
+ADVP NP .
+NP VP .
+ADVP , NP VP .
+NP , MD NP VP . NNP
+CC NP VP .
+CC NP VP .
+NP VP . NP VP . NNP
+S : SQ
+S : S .
+NP VP .
+WHNP SQ . NP VP .
+CC PP , NP VP .
+NP VP .
+S : S .
+ADVP , ADVP NP VP .
+CC ADVP NP VP .
+NP NP VP .
+ADVP , NP VP .
+S , CC S .
+INTJ , NP , S , S .
+VP .
+CC ADVP , NP VP .
+S , S .
+NP VP . VP .
+CC ADVP VP NP .
+CC NP VP .
+ADVP NP VP . CC S , CC S .
+NP VP .
+ADVP , S , CC S .
+NP VP .
+S , CC S .
+S , NP ADVP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+NP : S .
+ADVP NP .
+CC VP .
+NP : NP
+ADVP , NP VP .
+NP VP .
+ADVP , NP VP .
+CC , ADVP , NP VP .
+SBAR , NP VP .
+CC ADVP NP VP . NP VP .
+SBAR NP VP .
+NP ADVP VP .
+ADVP VP NP . NP VP .
+PP , NP VP .
+SBAR , NP VP .
+NP VP .
+ADVP , NP VP .
+ADVP WHNP SQ .
+WHNP SQ . NP VP .
+CC NP VP .
+PP , NP VP .
+S , CC S .
+S , CC S . S , NP VP .
+CC ADVP NP VP .
+NP VP . CC NP VP .
+ADVP NP VP .
+S , CC S , SBARQ .
+NP VP . NP VP .
+CC NP VP .
+S SQ .
+SBAR , NP VP .
+SBAR , NP VP .
+ADVP VP .
+WHNP S .
+NP VP .
+S , S S .
+NP VP .
+NP VP .
+S , CC S . NP VP . WHADVP SQ . PP , PP VP .
+S , CC S .
+ADVP NP VP .
+ADVP NP VP .
+CC NP VP .
+CC PP , NP VP .
+CC ADVP VP .
+NP VP .
+CC ADVP VP NP .
+ADVP WHNP SQ .
+CC NP VP .
+UH .
+CC PP , NP VP .
+CC NP VP .
+ADVP , NP VP .
+NP VP .
+SBAR , NP VP .
+S , S , CC S .
+NP VP .
+CC NP VP .
+NP ADJP
+CC NP ADVP VP .
+S , CC S . NNP
+S , CC S . NP VP .
+NP VP .
+NP VP .
+UH . NP-TMP , VP .
+CC SBAR INTJ , NP VP .
+PP , NP VP . CC NP VP .
+ADVP NP VP .
+CC SBAR , VP . CC VP .
+ADVP NP VP .
+INTJ , NP VP .
+S : S .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+ADVP NP VP .
+ADVP , SBAR , NP VP .
+S : S .
+NP VP .
+S , CC SINV , S , S .
+NP ADVP VP .
+CC NP VP .
+CC SBAR NP VP .
+CC ADVP NP VP .
+S , CC SBARQ .
+NP VP .
+ADVP , SBAR .
+CC NP VP .
+S , NP , FRAG .
+CC NP . S , CC S .
+CC NP VP .
+ADVP , ADVP , SBAR : NP VP .
+SBAR , NP VP .
+CC NP VP .
+ADVP NP VP .
+FRAG , CC S .
+NP VP .
+NP VP .
+ADJP S .
+NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+NP VP . VP .
+CC VP .
+NP : S .
+S : S .
+CC NP VP .
+VP .
+S , NP VP .
+NP VP .
+NP VP .
+ADVP WHNP SQ .
+S , NP VP .
+S : S . NNP
+CC S , CC S .
+WHADVP SQ .
+ADVP , NP ADVP VP .
+NP VP , CC INTJ , VP .
+S , SQ . S , CC S . S , SQ .
+ADVP , NP VP .
+ADVP , S , CC S . NNP
+S , NP VP .
+ADVP SBAR VP .
+CC ADVP NP VP .
+S , NP VP .
+ADVP NP VP .
+NP VP .
+S , CC S . NP VP .
+ADVP VP .
+NP-TMP , NP VP . NP VP .
+NP VP .
+SBAR , VP .
+NP VP .
+NP VP .
+NP VP . WHNP SQ . NNP . NNP
+NP VP NP . PP NP VP .
+ADVP NP .
+NP VP .
+NP VP .
+NP VP .
+NP PP .
+CC NP VP .
+CC PP , PP , NP ADVP VP .
+S : S .
+CC NP VP .
+NP VP .
+CC NP VP . NP VP .
+NP VP .
+S : S .
+NP VP .
+CC NP VP .
+CC PP .
+NP VP .
+CC ADVP NP VP .
+ADVP , NP VP .
+PP , NP VP . PP , PP , NP VP . CC PP , NP VP . PP , NP VP .
+SBAR VP .
+NP VP .
+NP VP . UCP NP VP .
+S CC S . NNP
+NP VP .
+PRN , VBP NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP .
+ADVP , NP VP .
+CC NP VP .
+NP-TMP , NP VP .
+SBAR , NP VP .
+CC NP VP .
+NP VP .
+CC S CC S .
+CC ADVP , NP VP .
+CC S : CC S .
+INTJ NP VP .
+NP PP .
+SBAR , NP VP .
+CC PP , SBAR , NP VP .
+NP VP . NP VP . NP VP . NP VP . S , CC S .
+WHNP SQ . NP VP . NP VP . NP VP .
+NP VP .
+CC PP , NP VP .
+NP VP .
+SBAR , NP VP .
+ADVP , PP , SBAR , NP VP . NNP
+S : S .
+PP , PP , SBAR VP .
+NP : ADVP . NP , NP , NP .
+RB . SBAR , NP VP . NP VP .
+ADVP , NP VP . RB .
+FRAG SQ . VP .
+S , CC S .
+NP : S . UH . UH .
+S : S .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S : S . CC S : CC S .
+JJ NN .
+NP VP . NNP
+S , NP ADVP VP .
+SBAR NP VP .
+CC NP .
+S , NP VP . NP VP .
+CC NP ADVP .
+ADVP WHNP SQ .
+NP VP .
+VP .
+S , CC S .
+NP VP . NP VP .
+ADVP WHNP SQ .
+S , CC S . NNP
+NP VP .
+S , CC S .
+INTJ , NP VP .
+NP VP .
+NP , VP .
+NP VP .
+NP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+CC ADVP , NP VP .
+NP VP .
+NP VP .
+CC S , CC S .
+S , VP NP .
+CC NP VP .
+CC S , CC S .
+MD NP VP .
+S , CC S .
+ADVP NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+ADVP NP ADVP .
+NP PP .
+CC S , CC S .
+NP VP .
+NP VP .
+S CC S .
+CC NP VP .
+ADVP , NP ADVP VP .
+NP VP .
+ADVP , VBZ NP ADJP SBAR .
+CC NP VP .
+CC VP .
+CC NP VP . NNP
+ADVP , S , CC S .
+CC ADVP NP VP .
+NP ADVP VP . NNP
+CC PRN NP VP .
+CC NP-TMP PRN NP VP . NNP
+CC NP VP .
+CC NP VP .
+S , CC S .
+NP ADVP VP . NNP
+VP .
+S , CC S .
+PP , PP , NP VP .
+NP VP .
+ADVP NP VP .
+NP ADVP VP .
+MD NP VP .
+VP .
+ADVP , S , CC S .
+RB NP .
+ADVP NP PP .
+NP VP .
+NP VP . NP VP .
+NP VP .
+S , IN S .
+VP .
+ADVP , NP VP .
+S , CC S .
+S , CC S .
+NP VP .
+CC NP VP .
+ADVP SBAR VP .
+NP VP .
+ADVP NP VP . CC NP VP .
+SBAR VP .
+S , NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP . RB .
+RB . ADVP , SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP . CC ADVP NP VP .
+ADVP NP VP .
+NP VP . FRAG , S .
+S , CC S .
+CC ADVP NP VP . NNP
+S , CC S .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+VP .
+NP VP .
+ADVP NP-TMP , NP VP .
+SBAR , NP VP .
+FRAG , S .
+ADVP NP VP .
+S , NP VP .
+UH .
+CC NP ADVP VP .
+NP : SBARQ .
+ADVP , NP VP .
+NP VP .
+S , CC S .
+CC ADVP , ADVP VP .
+ADVP , S CC S .
+PP , S VP .
+ADVP NP NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+CC NP VP . NP VP .
+WHNP S .
+VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+PP , S , CC S .
+NP : VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP . NP VP .
+CC ADVP , NP VP .
+NP VP .
+WHADVP SQ .
+S , CC S .
+S , CC S .
+PP , NP VP .
+PP , NP VP .
+ADVP , NP VP .
+CC SBAR , NP VP . NNP
+CC ADVP NP VP .
+S , CC S .
+CC ADVP SBAR , NP VP .
+CC NP VP .
+CC SBAR , NP VP .
+S , CC S .
+IN S .
+WHADVP SQ . IN NP . NP VP .
+S , CC S .
+NP VP .
+NP VP .
+CC S : NP VP , CC S .
+NP , S .
+NP VP .
+CC PP , NP VP .
+NP VP .
+ADVP , SBAR , NP VP .
+INTJ , NP VP .
+ADVP , NP .
+CC SBAR , NP VP .
+VP .
+CC PP , NP VP .
+CC ADVP NP VP .
+ADVP NP VP .
+ADVP , NP VP .
+FRAG , CC S , FRAG .
+NP VP .
+NP VP .
+CC NP VP .
+S CC S .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC PRN NP ADVP VP .
+CC NP ADVP VP .
+IN S . NNP
+ADVP NP VP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+CC NP ADVP VP .
+CC : : ADVP VP . NNP
+NP : NP
+ADVP , SBAR , NP VP .
+NP VP .
+SBAR PRN , VP . NNP
+ADVP NP VP . NP , NP .
+CC ADVP NP VP .
+NP : NP
+NP VP .
+CC NP VP .
+CC ADVP , NP VP .
+ADVP NP VP .
+CC NP VP .
+NP VP .
+NP ADVP VP .
+NP VP .
+NP PP VP .
+ADVP VP NP . NP VP .
+ADVP , S , S , CC S .
+CC S . NNP
+CC S , CC S .
+NP VP . NP VP . NP , NP
+CC NP VP .
+CC ADVP NP VP .
+CC NP VP .
+CC PRN NP VP .
+NP VP .
+NP VP .
+ADVP , PP , NP VP .
+ADVP NP NP .
+CC PP , NP VP .
+S , NP VP .
+NP VP . NP VP .
+NP VP . NP VP .
+CC NP VP .
+CC PP NP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+NP VP . NNP
+S , CC S .
+S : S .
+PP NP VP .
+CC WHNP SQ .
+CC ADVP NP VP .
+CC NP VP .
+CC NP .
+ADVP NP VP .
+S , S .
+VP . NNP
+S VP .
+NP VP .
+S , CC S .
+CC S , CC S .
+NP VP .
+ADVP , PP , NP VP .
+CC WHADVP SQ .
+WHNP SQ .
+CC PP , VP .
+VBZ NP NP .
+NP VP . NP VP .
+NP VP .
+NP VP .
+S , CC S .
+S , S : CC S .
+NP VP .
+NP VP .
+CC PP , NP VP .
+CC NP VP .
+CC S : NP VP .
+CC NP VP .
+CC ADVP NP VP . NNP
+NP VP .
+CC S , CC S .
+NP VP .
+NP VP .
+S , CC S .
+ADVP , NP VP PRN SBAR .
+NP VP .
+NP VP .
+VBP NP VP .
+NP VP .
+NP , NP .
+NP VP .
+NP VP .
+NP-TMP , NP VP .
+ADVP NP VP .
+NP VP .
+NP : S .
+NP VP .
+S : NP . S , CC S .
+NP VP .
+NP ADVP VP .
+CC NP VP .
+VP .
+S : S .
+CC NP , NP VP .
+PP , NP VP .
+ADVP WHADVP SQ .
+WHNP SQ . VBZ NP VP .
+CC NP VP .
+CC NP VP .
+PP , NP VP .
+NP , VP .
+S CC S . NNP
+NP VP .
+CC S CC S .
+ADVP NP VP .
+ADVP , NP VP .
+NP VP .
+NP VP .
+S : S .
+RB RB . S , CC S . RB .
+ADVP , ADVP VP . FRAG : S . NP VP .
+S , CC S .
+S SQ .
+NP : S
+SBAR , S , VP .
+PP , NP VP .
+CC S , ADVP , S .
+NP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+CC NP , PP , VP .
+NP VP .
+NP VP .
+CC NP ADVP VP .
+CC ADVP NP VP .
+NP VP .
+S , CC S .
+INTJ VP .
+ADVP , ADVP , NP VP .
+NP VP .
+S , CC , ADVP , VP .
+CC ADVP NP . NP VP .
+NP : S . NP PP .
+ADVP NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+NP VP .
+NP , VP .
+FRAG : S .
+NP VP .
+NP VP .
+ADVP NP VP .
+NP VP . NNP
+S S . NNP
+NP VP .
+NP VP .
+PP , NP VP .
+SBAR VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+S , NP VP .
+CC NP VP .
+S , VP : S .
+ADVP NP VP . CC ADVP NP VP .
+PP , NP VP .
+CC SBAR , NP VP .
+NP VP .
+CC WHNP S .
+NP VP .
+IN S .
+NP VP .
+CC INTJ , PP , NP VP .
+NP VP .
+NP VP .
+CC NP VP . NP VP . NNP
+ADVP WHNP SQ .
+NP VP .
+CC NP VP .
+CC NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP : NP PP
+NP VP .
+CC NP VP .
+S , CC S .
+ADVP , SBAR , NP , VP .
+CC ADVP , VP .
+NP VP .
+PP , NP VP .
+S : S .
+PP , NP VP . S : S .
+S , CC S .
+CC SBAR , NP VP .
+ADVP , S , ADVP NP VP .
+CC S , CC S .
+ADVP SBAR , NP VP . CC NP VP .
+S , CC S . NNP
+CC ADVP NP VP . NP VP . WHADVP SQ .
+NP VP .
+S CC S .
+NP VP .
+ADVP NP ADVP .
+S , CC S . NNP
+NP VP .
+S , S , S .
+PP VP NP .
+NP VP .
+S , NP ADVP VP .
+NP VP .
+NP VP .
+CC NP VP .
+ADVP , NP VP .
+CC ADVP NP-TMP NP VP .
+NP VP .
+NP VP . ADVP VP NP .
+S , CC S , S , CC S .
+WHNP SQ .
+JJ NN NN . S : FRAG . NNP
+CC S , S .
+NP VP .
+ADVP NP VP .
+CC ADVP , NP VP .
+S , CC S .
+ADVP VP NP .
+S , CC S .
+S , CC S .
+NP VP .
+CC MD NP VP .
+WHNP SQ .
+S : S .
+SBAR , NP VP .
+FRAG , CC S .
+WHNP SQ .
+CC INTJ NP , VP . NNP
+S , NP VP .
+NP VP .
+CC NP VP .
+ADVP ADJP . ADVP NP VP .
+NP VP .
+NP VP .
+ADVP , NP .
+IN S .
+ADVP NP VP .
+ADVP , SBAR , S VP .
+CC PP , S VP .
+NP VP .
+VP .
+ADVP , NP , ADVP , VP .
+S : CC , S : S : SBAR . CC NP VP .
+S , CC S .
+CC NP .
+PP NP VP .
+NP S .
+S , CC SBARQ .
+CC S , VP . NNP
+NP VP .
+VBZ NP PP .
+ADVP NP VP .
+CC VP NNP
+PP NP VP . NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP . NNP
+CC NP VP .
+NP VP . CC FRAG , FRAG .
+NP VP .
+ADVP , SBAR , NP VP .
+S CC S .
+S VBP NP .
+NP VP .
+SBAR VP .
+ADVP , INTJ VP .
+CC ADVP NP VP .
+NP VP . WHNP .
+CC NP .
+VP .
+CC S , CC S .
+SBAR , NP VP .
+CC ADVP NP VP . NP , ADVP NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP .
+SBAR , NP VP .
+CC NP VP .
+PRN , SBAR , NP VP .
+SBAR VP .
+ADVP SBAR , PP , VP .
+CC S , SQ .
+CC NP VP .
+NP VP .
+ADVP , SBAR VP .
+ADVP , NP VP .
+S , CC S .
+PP , NP VP .
+NP VP .
+NP VP .
+CC S , CC S .
+PP , NP VP .
+IN S .
+CC ADVP SBAR , NP VP .
+CC NP ADVP VP .
+PP , NP VP .
+CC S .
+NP VP .
+NP : NP . NNP
+NP VP .
+NP-TMP , SBAR , NP VP .
+VP .
+PP , NP VP .
+NP : S .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+S , CC S .
+VP .
+CC NP .
+NP VP .
+CC NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+CC NP VP . PP , NP VP .
+WHNP SQ .
+CC NP ADVP NP PP .
+NP VP .
+VP .
+S , CC S .
+S , CC S .
+NP ADVP VP .
+PP , NP VP .
+NP VP .
+S , NP VP .
+S , S , S CC S .
+ADVP SBAR VP .
+ADVP , SBAR , ADVP NP VP .
+S CC S .
+ADVP NP VP .
+S CC S .
+S , CC S .
+NP : NP
+CC ADVP , NP VP .
+CC ADVP NP VP .
+CC NP VP .
+ADVP , S , CC S .
+S , CC S .
+CC NP VP .
+CC S , CC S .
+S CC S .
+ADVP : PRN SBAR , NP VP .
+NP : NP
+CC ADVP , NP VP .
+ADVP , SBAR , NP VP .
+NP VP . CC NP VP .
+S , CC S .
+NP VP .
+PP , NP VP .
+S , NP VP .
+S , MD NP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+PP , NP VP .
+NP VP . NNP
+NP VP . NP VP .
+S , NP VP .
+CC PP NP VP . WHNP SQ .
+S : FRAG .
+NP VP .
+PRN , INTJ .
+NP VP .
+NP VP .
+CC SBAR VP . NNP
+NP VP .
+S : S : S .
+S , S , S .
+NP VP .
+ADVP , NP VP .
+S , CC S .
+RB IN S .
+NP , SBAR .
+NP VP . S , CC S .
+ADVP , SBAR , NP VP .
+PP , NP VP .
+CC NP VP .
+ADVP , SBAR , NP VP .
+CC NP VP : CC S .
+NP ADVP VP .
+S : S .
+ADVP , NP VP .
+NP S : CC S .
+PP , NP VP .
+NP VP .
+NP VP .
+NP : S .
+NP NP , INTJ .
+S , CC S .
+WHNP IN S .
+WHADVP SQ .
+NP , NP VP .
+S , CC S .
+ADVP WHADVP SQ .
+VP .
+CC PP , NP VP .
+VP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+PP , NP VP .
+CC S VP .
+ADVP NP PP .
+PRN WHNP SQ . NNP
+NP : S .
+NP : S .
+NP : NP
+NP ADVP VP . NNP
+NP VP .
+NP VP .
+NP VP .
+S , NP . NNP
+NP ADVP VP .
+S : FRAG .
+NP : NP
+ADVP SBAR NP VP .
+S VP . NNP
+CC NP VP .
+NP NP-TMP VP .
+FRAG , FRAG , CC FRAG .
+ADVP NP VP .
+NP ADVP VP .
+CC ADVP , NP VP .
+MD NP VP .
+S : S .
+FRAG , CC S .
+CC WHNP SQ . NP VP .
+FRAG , FRAG .
+NP VP .
+ADVP , NP VP .
+CC SBAR VP .
+MD NP VP .
+CC ADVP , PP , NP VP .
+NP VP .
+ADVP SBAR .
+CC NP VP .
+NP VP .
+NP : NP .
+SBAR NP VP .
+SBAR , ADVP , PP : SBAR : NP VP .
+S , CC S .
+WHNP SQ .
+NP : NP .
+NP VP .
+INTJ , NP VP .
+NP , NP , NP .
+ADVP NP .
+NP VP .
+INTJ NP VP .
+NP VP .
+ADVP NP VP .
+NP VP .
+CC NP VP .
+S : CC S .
+NP ADVP VP .
+S CC S .
+NP VP . NNP
+S , SBARQ . NNP
+SBAR , S , WHADVP SQ .
+NP VP .
+WHNP SQ .
+NP VP .
+PP NP VP .
+CC NP VP .
+NP VP .
+PP NP ADVP VP .
+CC PP , PP , NP VP .
+CC MD NP VP . NNP
+NP , NP , NP , PP PP .
+S , NP VP .
+NP VP . NNP
+MD NP VP . ADVP RB .
+S : S .
+S , CC S .
+NP VP . NNP
+ADVP , NP VP . NNP
+PP , NP VP . NNP
+ADVP NP VP .
+NP VP .
+ADVP NP VP .
+INTJ , CC NP VP .
+SBAR VP .
+WHADVP SQ . S , S . NFP NP . NP VP . NP , NP
+NP VP .
+S VP .
+NP VP . WHADVP SQ .
+VP .
+NP , ADVP VP . NP VP . CC S .
+CC NP VP .
+INTJ , SBAR .
+CC PP , NP VP .
+WHADVP SQ . NNP
+S , CC S .
+NP VP .
+CC SBAR NP VP .
+CC NP VP .
+CC NP VP .
+CC ADVP NP VP .
+CC ADVP , NP VP .
+PP , S , CC S .
+CC PP .
+ADVP , NP VP .
+PP , NP VP .
+ADVP , SBAR , NP VP .
+NP VP .
+S , CC S .
+SBAR , NP VP .
+S , CC S .
+S , CC S .
+SBAR PRN NP VP .
+S , CC S .
+ADVP VP NP , S . NNP
+S , CC S .
+UH . ADVP NP VP . NP VP .
+CC NP VP . NNP
+S : S .
+NP ADVP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+CC ADVP , PP , NP VP .
+ADVP NP VP .
+VP .
+CC PRN ADVP NP VP .
+NP VP .
+ADVP NP VP .
+CC NP VP .
+CC PP , NP VP .
+CC NP VP .
+S , CC S .
+CC NP VP . NNP
+S : S .
+NP VP .
+PP , ADVP NP VP .
+NP VP .
+S : S .
+NP VP .
+S , CC S .
+CC S , CC S .
+S NP NP .
+CC S .
+INTJ , NP VP . NP VP .
+FRAG S . NNP
+INTJ , NP .
+NP VP . NP VP .
+CC NP VP .
+S , CC S . MD NP VP . NNP
+CC NP VP .
+PP , NP VP . NN NN . VP . NNP
+NP VP .
+CC NP VP .
+INTJ , NP VP .
+S , NP VP .
+ADVP NP VP .
+CC PP NP VP .
+IN S .
+S , NP VP .
+S CC S CC S .
+NP VP .
+S , CC S .
+NP : S .
+ADVP , S , NP VP .
+NP VP .
+CC ADVP NP VP .
+NP VP .
+CC NP VP .
+CC NP PRN VP .
+CC NP VP .
+ADVP NP .
+ADVP , NP VP .
+CC S , CC S : S : CC S . NNP
+WHADVP SQ . NNP
+CC NP VP . NNP
+PP , S , CC S .
+ADVP WHNP SQ .
+S : S .
+INTJ , SBAR , NP VP .
+NP VP .
+S , CC S .
+NP VP . NP NP . SBAR MD NP VP .
+WHADVP FRAG . S , NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+S , NP VP .
+NP NP NP . NP VP .
+CC SBAR VP .
+NP VP .
+NP VP .
+PP , NP VP .
+NP VP .
+NP-TMP S .
+ADVP NP , ADVP , VP . NNP
+NP VP .
+S , CC S .
+ADVP NP .
+ADVP PP , WHNP SQ .
+NP ADVP VP .
+ADVP SBAR , NP VP .
+NP VP . NP VP . NP VP .
+CC ADVP NP .
+S , CC S .
+NP VP .
+WHADVP SQ .
+S , CC S .
+NP VP .
+CC PP , NP VP .
+CC NP VP .
+ADVP , WHNP SQ .
+FRAG , NP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+S , CC S .
+NP VP .
+NP VP .
+CC NP VP .
+S , CC S .
+ADVP WHNP SQ .
+CC NP VP .
+NP ADVP VP .
+SBAR , NP VP .
+NP VP .
+CC PP , NP VP .
+CC ADVP NP NP .
+NP VP .
+S , S , CC S .
+NP VP .
+CC NP VP .
+CC ADVP NP VP . NNP
+NP VP . S , ADJP NP .
+NP VP .
+NP VP .
+ADVP , VP .
+S , CC S .
+CC S , CC S .
+CC NP VP .
+CC PP NP VP .
+NP NP . NP INTJ VP . NP INTJ , NP . NNP
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+PP , NP VP . NP VP . NP , NP
+CC NP PRN VP .
+ADVP VP NP .
+CC SBAR , NP VP .
+S , CC S .
+S , CC S .
+S : S .
+S CC S .
+CC ADVP NP VP .
+CC SBAR , SBAR , NP VP .
+CC NP VP . CC SBAR , NP VP . S , S , S , S . ADVP NP VP .
+ADVP WHNP SQ . NP VP .
+WHADVP SQ . NP VP .
+NP , NP . NP , NP .
+NP VP . CC NP VP . S , CC S . NP VP .
+PRN , INTJ .
+CC NP ADVP VP .
+ADVP NP VP .
+CC S , RB S . CC NP VP .
+S : S .
+CC NP VP .
+CC NP VP .
+ADVP , NP VP .
+S , CC S .
+NP VP .
+ADVP WHNP SQ . INTJ , NP .
+INTJ , NP PP .
+NP VP .
+NP VP .
+S , S , S .
+VP . NP VP .
+ADVP SBAR VP .
+S , CC S : S : S .
+PP , NP VP .
+NP VP .
+CC S , CC S .
+NP VP .
+CC VBZ NP ADJP .
+CC NP VP .
+S , CC S .
+NP : FRAG .
+S , CC S .
+CC S : S . NNP
+CC NP VP .
+NP : NP : NP . NNP
+S , NP VP .
+SBAR , NP VP . S , CC S .
+SBAR VP .
+NP VP .
+S , NP VP .
+NP VP .
+NP VP .
+MD NP VP .
+S , NP VP .
+ADVP PP NP VP .
+S CC , S .
+CC NP VP .
+CC NP VP .
+NP VP .
+S , CC S .
+SBAR , NP VP .
+CC VBP NP VP .
+ADVP NP ADVP PP .
+CONJP SINV , S .
+S , CC S .
+NP VP .
+PP , PP , NP ADVP VP . NP VP . CC WHNP SQ .
+NP VP .
+S , VP NP . S : S . PP , NP VP .
+NP VP .
+NP VP . NNP
+VP .
+PP , NP VP .
+ADVP , INTJ , S : S .
+IN NP VP .
+ADVP , PP , NP VP .
+S , S , CC S .
+S , NP VP .
+CC NP VP .
+S , NP VP . NNP
+CC S , CC FRAG .
+NP VP .
+NP VP .
+ADVP , SBAR VP .
+CC NP VP .
+CC NP VP .
+S , S , S .
+CC ADVP NP VP NNP
+ADVP NP VP .
+CC NP VP .
+CC NP VP .
+NP ADVP VP .
+SBAR , NP VP .
+NP : S .
+ADVP NP VP .
+WHNP SQ .
+NP VP .
+NP ADVP VP .
+NP VP .
+ADVP NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+S , NP VP .
+ADVP VBP NP VP .
+PP , NP VP .
+SBAR VP .
+PP , NP .
+NP , VP .
+SBAR PRN NP ADVP VP .
+CC S : S .
+VP . NNP
+NP VP . NP , NP .
+S , NP VP .
+DT NN .
+CC NP VP .
+CC ADVP , NP , VP .
+S , CC S .
+S , NP VP .
+S , CC S .
+ADVP NP VP .
+ADVP VP .
+NP VP .
+NP VP .
+NP VP . NP VP . S , CC S .
+NP VP .
+INTJ , S , RB S . NP VP .
+NP VP .
+S , CC S . PP , NP VP . NP , NP
+SBAR , ADVP NP VP .
+NP VP .
+S : FRAG .
+ADVP , NP VP .
+NP VP . NNP
+NP VP .
+CC SBAR , NP VP .
+NP ADVP VP .
+SBAR , NP VP .
+ADVP , WHNP SQ .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+PP GW NP VP . VP .
+NP , ADVP , NP VP .
+NP VP .
+NP : S . PP , NP VP .
+CC SBAR , NP VP .
+WHNP SQ .
+NP : NP
+NP VP . NP VP . NNP
+CC ADVP , PP , NP VP .
+CC NP ADVP VP . IN S .
+PP , NP VP .
+NP VP .
+ADVP , SBAR PRN NP VP .
+NP NP VP .
+NP VP .
+FRAG , S .
+CC ADVP NP VP .
+ADVP NP VP . S , NP VP .
+CC S .
+S , CC S .
+NP VP . NP VP . CC S CC S SBAR . SBAR NP VP .
+S , CC S . CC PP NP VP .
+NP VP .
+RB RB .
+INTJ , S , NP VP .
+VP .
+IN S . NNP
+PP , NP VP .
+NP VP .
+NP VP . NNP
+NP VP .
+NP VP .
+CC WHNP SQ .
+PP , S , NP ADVP VP .
+S , NP VP .
+NP VP .
+NP VP .
+ADVP , PP , NP VP .
+SBAR , NP VP .
+ADVP NP VP .
+NP : S .
+ADVP NP VP .
+CC SBAR , VP .
+CC SBAR VP .
+CC NP VP .
+NP ADVP VP .
+CC VP .
+NP VP .
+S , NP VP .
+CC SBAR , NP VP .
+ADVP NP VP .
+PP , NP VP .
+CC WHADVP SQ .
+ADVP NP VP .
+CC ADVP , ADVP , SBAR NP VP .
+FRAG , CC S .
+S , NP VP .
+WHNP SQ .
+S , CC S .
+NP VP .
+NP VP . S , NP VP .
+NP VP .
+NP .
+NP : NP .
+ADVP NP VP .
+CC NP VP .
+NP VP .
+INTJ , PP , NP VP .
+PP , S , CC S .
+S , NP VP .
+S , CC S , S , S , CC S .
+S , CC S .
+S , CC IN S .
+NP VP .
+CC SBAR .
+S , S , CC S .
+INTJ , S , CC S .
+NP VP . WHNP SQ . NNP
+NP VP .
+NP VP .
+NP VP . NP VP .
+PP , NP VP .
+SBAR , NP VP .
+NP ADVP VP .
+ADVP NP VP .
+CC NP VP .
+NP ADVP VP .
+NP VP .
+NP VP . NP VP .
+NP VP . NNP
+CC S , CC S .
+ADVP NP VP .
+NP VP .
+CC S , CC S .
+S : CC S .
+ADVP NP VP .
+S : S .
+CC SBAR NP VP .
+ADVP , NP VP .
+CC NP VP . NNP
+PP , NP VP .
+NP VP . NNP
+S , NP VP .
+ADVP , NP VP .
+NP VP .
+VP . NP VP .
+CC NP VP .
+NP VP .
+ADVP VP .
+NP : NP
+NP VP .
+INTJ , NP VP .
+ADVP VP .
+ADVP , NP VP .
+ADVP , NP VP .
+CC PP , NP VP .
+NP VP .
+S CC , S .
+CC NP VP .
+S , CC S .
+INTJ , NP VP .
+S , NP VP .
+NP VP . NP VP . NNP
+NP VP .
+CC INTJ , NP VP .
+CC NP VP . VP .
+NP VP . CD NNS .
+ADVP NP VP .
+NP VP .
+NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S : WHNP SQ .
+PP , NP VP .
+S , CC S .
+NP VP .
+PP , PP NP-TMP , NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP ADVP VP . NP , ADVP NP VP . NNP
+NP VP .
+ADVP , NP VP .
+NP VP . NP VP .
+S , CC S .
+S VP . ADVP NP VP .
+CC S , CC S .
+NP VP .
+ADVP , NP VP .
+INTJ , NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+VP .
+NP VP .
+ADJP : S .
+VP .
+NP VP . NNP
+NP VP . NP VP .
+CC NP VP . NNP
+S CC S .
+S , S .
+S , CC S .
+CC NP VP .
+CC PP , NP VP .
+NP VP .
+S , CC S .
+PP , NP VP .
+S , CC S , CC S .
+NP VP .
+NP VP .
+S , CC S .
+NP VP .
+S CC S .
+CC NP VP . NNP
+ADVP WHADVP SQ .
+CC ADVP NP VP .
+SBAR , NP VP .
+CC NP VP .
+NP : S .
+NP VP .
+CC SBAR , NP VP .
+S : S .
+CC S CC S .
+FRAG , S FRAG .
+ADVP , SBAR , NP VP .
+ADVP NP VP .
+S , CC S .
+IN S .
+CC NP ADVP VP .
+NP VP .
+PP , ADVP , PP , NP VP .
+NP ADVP VP .
+SBAR , NP VP .
+ADVP , NP VP .
+ADVP IN NP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+PP , S , CC S .
+S , SQ .
+FRAG FRAG . S , CC S .
+NP VP .
+NP VP .
+PRN NP VP
+S VP .
+SBAR , NP VP .
+NP VP .
+S , CC S .
+WHNP SQ .
+WHNP SQ . NNP
+NP VP .
+S , CC S .
+CC NP ADVP VP .
+S , SBAR , NP VP .
+PP NP VP . NP VP . NNP
+NP : S
+CC NP VP . NP VP . NNP
+WHADVP SQ . VBZ NP SBAR . CC VBP NP ADJP . NP . NP VP .
+NP : S .
+CC S , CC S .
+NP ADVP VP .
+CC NP VP .
+NP VP . NP VP .
+NP VP .
+NP , ADJP .
+NP VP .
+NP VP .
+SQ , CC SQ . NNP
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+VP .
+VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , SQ .
+CC NP PRN VP .
+CC SBAR , NP VP , CC NP .
+NP VP .
+CC NP VP .
+ADVP , NP VP .
+CC ADVP SBAR NP VP . NP VP . NNP
+ADVP , VP .
+NP VP .
+CC NP VP . CC ADVP , S , CC S . CC NP VP .
+S , NP VP .
+ADVP , NP VP .
+ADVP , NP VP . CC NP VP .
+ADVP , NP VP . S , CC S . NP VP .
+S , NP VP . NNP
+S : CC S .
+ADVP NP VP .
+CC NP VP .
+NP VP .
+CC ADVP NP VP .
+NP VP .
+CC NP VP . CC , INTJ , PRN , NP ADVP VP .
+CC NP VP .
+CC ADVP NP .
+S , CC S .
+NP VP .
+NP VP .
+INTJ , ADVP NP VP .
+INTJ , PP .
+S , CC S .
+NP VP .
+NP VP . NNP
+NP VP .
+ADVP NP VP .
+CC S CC S .
+NP VP .
+NP VP .
+CC ADVP NP VP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP . NP VP .
+NP-TMP , NP VP .
+NP VP .
+NP ADVP VP . NP VP .
+JJ NN .
+ADVP , NP , NP ADVP VP .
+CC S , CC S .
+PP , NP VP .
+SBAR WHNP SQ . NP , VP . NNP
+S , CC S .
+ADVP SBAR VP .
+SBAR , NP VP .
+CC NP VP .
+ADVP NP VP .
+NP VP .
+S , CC S .
+NP VP .
+NP VP . NNP
+INTJ , NP VP .
+NP VP .
+CC ADVP , S .
+S : S .
+CC NP-TMP , NP VP .
+PP , VP .
+PP , S , CC S .
+S : S .
+SBAR , NP VP .
+NP VP .
+S CC S .
+NP : FRAG .
+SBAR VP .
+NP VP .
+SBAR VP .
+S , CC S .
+SBAR , NP VP .
+NP VP .
+SBAR , NP ADVP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP . NP VP .
+CC WHNP SQ .
+NP VP .
+CC S , CC S .
+NP VP .
+ADVP NP NP .
+S , NP VP .
+NP VP .
+S : S .
+S , CC S .
+NP VP .
+S S .
+ADVP WHNP SQ . S , CC S .
+NP VP .
+NP ADVP VP . INTJ , ADVP ADVP VP .
+NP VP .
+FRAG , CC FRAG .
+ADVP VP NP .
+ADVP SBAR , NP VP .
+NP ADVP VP .
+CC NP VP .
+S , NP VP .
+CC ADVP NP VP .
+CC NP , ADVP , SBAR , SBAR , NP VP .
+ADVP NP VP .
+S CC S .
+ADVP , SBAR , NP VP .
+ADVP NP VP . S , S , S , S . ADJP PRN VP S .
+ADVP VP NP .
+S , S , CC S .
+NP VP . NP VP .
+S , CC S .
+CC NP VP . NNP
+NP VP . NP VP .
+S , CC S .
+CC ADVP ADVP , NP VP .
+S VP .
+ADVP NP VP .
+CC ADVP PP , NP VP .
+IN S . ADVP NP . NNP
+NP VP . NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP : NP .
+NP VP .
+NP VP .
+ADVP SBAR NP VP .
+SBAR , NP VP .
+PP , NP VP .
+RB .
+IN S .
+NP VP .
+CC NP VP . WHNP NP .
+ADVP NP VP .
+S , S , S : S .
+PP , NP VP .
+NP VP .
+NP VP .
+JJ . NN .
+NP VP .
+NP ADVP VP .
+ADVP , NP VP .
+ADVP NP VP .
+NP VP . INTJ , NP VP . NP VP .
+NP PP .
+FRAG , CC S .
+S , CC S .
+CC SBAR VP .
+NP VP .
+CC NP VP .
+and i got about two-@@_thir@@_ds of the way through , and there was a ch@@_art on the ri@@_ght-@@_hand side -- on the ri@@_ght-@@_hand page -- that we &apos;ve lab@@_el@@_ed here &quot; the most terri@@_fying ch@@_art imag@@_in@@_able for a new par@@_ent . &quot;
+NP : FRAG .
+ADVP NP VP .
+CC , PRN , NP VP .
+CC ADVP NP VP .
+S , NP VP .
+NP VP .
+NP : NP
+CC SBAR , NP ADVP VP .
+NP PP . NP VP .
+NP VP .
+CC NP VP .
+ADVP NP VP .
+PP , NP VP .
+WHADVP . SBAR NP VP . NNP
+INTJ , SBAR VP .
+NP VP .
+NP VP .
+ADVP , PP .
+MD NP VP .
+NP VP .
+NP VP .
+NP : S .
+S , NP ADVP VP .
+CC ADVP , WHNP SQ .
+SBAR , NP VP .
+NP , NP .
+NP VP .
+CC NP VP .
+INTJ , ADVP NP VP . NNP
+CC NP VP . WHNP SQ . NNP
+NP VP . NP VP . NP VP .
+NP VP .
+CC ADVP NP VP .
+CC NP VP .
+ADVP , NP , VP .
+CC NP VP .
+NP VP .
+NP , S VP .
+ADVP , SBAR , NP VP .
+ADVP , VP .
+CC NP VP .
+CC NP VP
+ADVP , NP VP .
+S , CC S .
+S : S . NNP
+INTJ , ADVP VP .
+CC NP .
+CC NP VP .
+S , CC S .
+NP VP .
+NP VP .
+CC NP VP .
+NP PP .
+CC NP VP . NNP
+NP VP .
+S , S CC S CC S CC S CC S CC S .
+S , CC S .
+CC ADVP NP VP .
+CC NP VP .
+CC NP VP .
+S , CC S . CC SBAR , ADVP , NP VP .
+CC SBAR VP .
+PP NP VP .
+ADVP NP .
+PP , NP VP .
+CC NP VP .
+ADVP , S , CC S .
+NP VP .
+CC S , S , S , CC S .
+CC NP VP .
+NP VP .
+NN CC NN .
+S , VP NP .
+NP VP .
+CC SBAR .
+S , CC S .
+CC NP VP .
+S , CC S .
+PP , NP VP .
+S , CC S .
+CC SBAR , NP VP .
+NP VP .
+CC ADVP NP , SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP .
+CC SBAR .
+ADVP , NP VP .
+CD JJ NNS .
+NP VP .
+CC NP VP .
+PP , NP VP . MD NP VP . PP , NP VP .
+CC SBAR NP VP .
+NP VP .
+ADVP NP VP .
+ADVP SBAR VP .
+NP VP .
+CC NP VP .
+NP VP .
+ADVP NP SBAR . S , S .
+S , CC S .
+NP VP .
+NP VP .
+S : S .
+CC NP VP .
+CC NP VP .
+NP VP .
+PP NP VP .
+CC INTJ NP VP .
+NP VP .
+NP VP .
+S , CC S .
+S , IN S .
+CC ADVP NP VP .
+SBAR , VP .
+CC NP VP . NP VP .
+CC ADVP NP VP .
+S , S .
+CC , PRN , ADVP NP VP .
+ADVP , NP VP .
+NP : S .
+CC NP VP .
+S , S , S . CC , NP VP .
+CC ADVP , S VP .
+CC NP VP .
+NP ADVP VP .
+S , CC S .
+NP VP .
+NP : S .
+NP VP .
+CC ADVP , PP , NP VP .
+CC NP ADVP VP .
+NP VP .
+S , S , S . NNP
+CC SBAR , NP VP .
+CC ADVP NP VP .
+ADVP , ADVP NP VP .
+CC NP VP .
+CC ADVP NP VP .
+CC NP VP .
+NP VP .
+ADVP , ADVP NP VP .
+CC RB NP .
+S , S .
+INTJ , SBAR , WHNP SQ .
+NP VP .
+CC NP VP .
+SBAR , NP PRN ADVP PRN NP VP .
+NP-TMP NP VP .
+NP VP .
+NP ADVP VP .
+CC ADVP NP VP
+NP VP .
+NP VP .
+CC ADVP SBAR VP .
+NP VP .
+PP , NP VP .
+CC S HYPH S .
+CC NP VP .
+ADVP VP .
+ADVP , SBAR , VP .
+CC NP VP .
+CC NP VP .
+IN NP .
+CC NP VP .
+ADVP , SBAR , NP VP .
+CC NP VP .
+S , CC S .
+ADVP NP .
+CC ADVP NP VP .
+CC NP .
+SBAR , NP VP .
+ADVP NP VP . S , SQ .
+NP VP .
+NP VP .
+NP-TMP , NP VP .
+CC NP VP .
+S , NP VP .
+NP VP .
+CC ADVP SBAR , NP VP . S , CC S .
+PP , ADVP NP VP .
+S , S : CC S .
+S NP VP . NP VP .
+NP VP .
+CC NP VP .
+S CC S .
+NP VP .
+ADVP NP VP .
+ADVP NP VP .
+NP VP .
+RB ADVP PP .
+CC SBAR NP VP .
+NP VP . NP ADVP VP .
+VP .
+NP VP .
+CC ADVP NP VP .
+SINV : S .
+S , NP VP .
+SBAR , NP VP . NNP
+VP .
+NP , SBAR , NP VP .
+CC NP VP .
+NP VP .
+S , CC S .
+PP , NP VP .
+S : S .
+S PRN CC S .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+NN . NN . CC VBZ NP NP .
+NP VP .
+ADVP PRN NP VP .
+PP , NP VP .
+S : S .
+NNS . VP . S : S .
+CC NP VP . ADVP , NP .
+VP .
+NP .
+WHADVP SQ . JJ .
+CC WHNP SQ .
+NP VP .
+CC S : S .
+FRAG , S : FRAG .
+S : S : CC S .
+SBAR , ADVP VP .
+CC ADVP : NP VP .
+NP VP .
+NP VP .
+NP VP . NNP
+NP : NP .
+S , FRAG . NP VP . NNP
+NP VP .
+ADJP SBAR . NP CC S
+NP VP .
+ADVP NP VP .
+NP IN NP .
+CC NP VP .
+ADVP ADVP .
+NP VP . NNP
+CC SBAR NP VP .
+CC NP VP .
+NP VP .
+CC ADVP VP .
+CC SBAR , NP VP .
+CC ADVP , NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+S , NP VP : FRAG .
+ADVP , SBAR VP .
+S , S , S .
+S : S .
+NP VP .
+S : S .
+CC NP VP . ADVP WHADVP SQ .
+CC S , S , SBAR . NP VP .
+NP VP . S , S , S , S , S , S , S , S .
+CC NP ADVP , NP VP .
+CC PP , SBAR , NP VP . NP VP .
+NP , NP , NP , PRN , NP .
+ADVP , SBAR , NP VP .
+NP , PP .
+NP VP .
+NP , S : S .
+NP VP .
+CC SBAR , NP VP .
+CC NP VP .
+NP-TMP , PP , NP VP .
+CC SBAR , NP VP . NNP
+ADVP , NP .
+NP VP .
+NP VP .
+VBP NP VP .
+NP VP .
+S , S S CC S .
+NP VP . NP VP .
+S PRN NP VP .
+CC NP VP .
+S , IN S , S : S .
+NP VP .
+CC S , S , CC S .
+NP VP .
+CC NP VP .
+VP .
+CC NP VP .
+S : S .
+NP VP .
+NP VP .
+S , NP VP .
+S , NP VP .
+NNS . WHNP PP .
+ADVP : : S .
+UH . NP VP .
+NP VP . NP VP .
+S , CC S .
+IN S .
+S : S .
+NP VP .
+S , CC S . ADVP , NP : S . NNP
+NP ADVP VP .
+S , CC S .
+S , CC S .
+PP , SBAR , NP VP .
+ADVP VP .
+ADVP NP VP .
+S , CC S .
+NP VP .
+CC ADVP , NP VP .
+CC ADVP NP VP .
+CC S , CC S .
+ADVP , PP , PP , NP VP .
+ADVP VP .
+CC NP ADVP VP .
+PP , NP VP .
+S , NP ADVP VP .
+S NP VP .
+VP .
+ADVP NP VP .
+JJ . JJ . JJ .
+NP VP .
+NP VP .
+CD NNS . NP VP .
+S : S .
+SBAR , NP VP .
+S , NP VP .
+NP VP .
+NP VP .
+CC PP , NP VP .
+S , CC S .
+ADVP NP .
+NP VP .
+S , CC S .
+ADVP NP ADVP VP .
+NP ADVP VP .
+SBAR , ADVP VP .
+CC PP , NP VP .
+NP VP .
+S CC S .
+JJ .
+S : S .
+PP , S , CC S .
+NP VP .
+CC NP VP . CC NP VP .
+S , NP VP .
+MD NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+VP .
+NP VP .
+NP VP .
+CC NP VP .
+CC NP-TMP NP VP .
+NP-TMP NP VP . NP VP . NNP
+PP NP VP . NNP
+PRN VBP NP ADVP VP . NNP
+PP , NP VP .
+CC S , CC S .
+CC NP VP .
+VP .
+CC PRN NP VP .
+ADVP SBAR , NP VP .
+NP : S .
+CC ADVP NP VP .
+NP : S .
+NP : S . NP : SQ . NNP
+S : S .
+VBZ NP VP . JJ .
+NP VP .
+CC NP VP .
+NP ADVP VP .
+ADVP , NP VP .
+NP VP .
+FRAG , CC S .
+NP VP .
+CC NP VP .
+NP VP .
+ADVP WHADVP SQ . INTJ , NP VP .
+NP VP .
+NP VP .
+SBAR , ADVP NP VP . ADVP NP VP .
+NP VP . SBAR , WHADVP SQ .
+NP VP .
+S , NP VP .
+SINV : S .
+SBAR VP .
+CC ADVP NP VP .
+CC NP VP .
+PP , PP , NP VP .
+VBD NP VP .
+NP VP .
+NP VP .
+NP VP . NNP
+CC NP ADVP VP .
+NP ADVP VP .
+CC ADVP , NP VP .
+ADVP NP VP . NNP
+NP VP .
+NP-TMP , NP VP .
+SBAR , NP VP .
+NP VP . VP .
+NP VP .
+S : S .
+S PRN NP VP .
+S CC S .
+NP VP .
+NP VP .
+CC ADVP NP VP .
+CC ADVP NP VP . CC ADVP NP VP .
+CC ADVP SBAR , NP VP .
+CC , PRN , VP .
+CC NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+NP VP .
+S , CC S .
+ADVP VP NP .
+NP VP .
+NP VP .
+S , CC S .
+NP VP .
+ADVP NP VP .
+NP VP .
+NP VP .
+PRN WHNP SQ .
+ADVP NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+S , S , S , CC S .
+CC NP NP VP .
+NP VP .
+VP .
+NP ADVP VP .
+NP VP .
+CC ADVP PP NP VP .
+SBAR , NP VP .
+WHNP SQ .
+CC ADVP S .
+PP , SBAR , NP VP .
+NP VP .
+NP VP .
+S , S : S .
+S , CC S . WHADVP .
+VP .
+ADVP S .
+S : S .
+NP , NP . NNP
+S : S .
+CC NP VP .
+S : S .
+NP VP . NP VP .
+ADVP , NP VP .
+PP , S , CC S .
+NP VP . UH .
+PP , NP VP .
+S , NP .
+NP ADVP VP .
+SBAR SQ .
+S : S .
+ADVP , NP VP .
+NP VP .
+NP VP .
+CC S : SBAR : NP VP .
+NP VP .
+CC SBAR , NP VP .
+NP VP .
+ADVP NP VP .
+IN NP VP .
+S , SQ . NNP
+CC NP VP .
+NP : S .
+CC NP VP .
+NP : S .
+RB S VP .
+ADVP , NP VP .
+NP VP .
+CC NP ADVP VP .
+NP PP .
+ADVP NP VP .
+CC WHNP PP .
+VP .
+WHADJP SQ .
+CC S VP .
+S , CC S .
+PP , NP VP .
+S , S , CC S .
+SBAR , NP VP .
+NP VP .
+WHNP PP . NP , CC S . NP VP .
+PP , NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+CC NP VP .
+CC , ADVP , NP VP .
+CC NP VP .
+NP VP .
+S : S .
+NP VP . NNP
+S , CC S .
+NP VP .
+NP ADVP VP .
+S , CC S .
+NP VP .
+S , NP VP .
+NP VP .
+NP , VP . PP VP NP .
+PP , NP VP .
+NP VP .
+PP NP-TMP , NP VP .
+NP : FRAG .
+NP VP .
+ADVP , SBAR , S , VP .
+NP VP .
+VP . S VP .
+ADVP , ADVP VP . S , S , S . WHADVP SQ .
+ADVP , NP ADVP VP . NNP
+ADVP IN PP .
+NP VP . S , NP VP . NNP
+ADVP , S , CC S . JJ .
+S , CC S .
+NP VP .
+NP VP . S : CC S . WHADVP .
+INTJ , NP VP .
+ADVP NP VP .
+CC NP VP .
+CC NP VP . ADVP , ADVP , NP VP . NP : NP . RB NP .
+ADVP , NP VP .
+NP VP . NP PP .
+ADVP , ADVP , NP VP .
+CC SBAR , NP VP .
+CC ADVP , S , NP : S .
+SBAR , NP .
+NP VP .
+WHNP SQ .
+ADVP : : NP VP . ADVP , S , VP .
+NP PP .
+VP . INTJ , ADJP .
+RB . JJ .
+NP : S .
+UH . VP .
+NP PP . NP : NP .
+ADVP , SBAR VP .
+CC NP VP .
+S , NP VP .
+ADVP , NP VP .
+CC ADVP ADVP .
+ADVP , NP VP . NNP
+NP VP .
+ADVP , NP VP . NP VP .
+NP VP .
+NP VP .
+ADVP NP VP . UH .
+NP VP .
+WHNP SQ .
+NP VP .
+NP VP NP VP . S , CC S .
+VP . NP VP .
+ADVP , NP VP .
+ADVP ADVP VP . NP VP .
+NP VP .
+CC NP .
+NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+INTJ , INTJ , NP VP .
+PP , NP VP .
+S , CC S .
+CC ADVP , ADVP .
+S , S .
+MD NP VP . MD NP VP .
+CC NP . , ADJP . NFP NN
+CC ADVP NP . VP . UH .
+S VP .
+NP VP .
+ADVP VP .
+NP VP . IN S .
+CC NP VP .
+CC SQ .
+CC PP , VP .
+NP VP .
+ADVP NP VP .
+PP , S , S .
+INTJ , NP VP .
+S : S .
+VBZ NP VP .
+CC ADVP , SBAR , NP VP .
+ADVP WHNP SQ .
+NP VP .
+CC PP , NP VP .
+S , CC S .
+NP VP .
+NP NP ADVP VP .
+ADVP , ADVP .
+VP .
+NP VP . NP VP .
+SBAR , S VP .
+NP VP .
+CC NP VP . NNP
+INTJ , NP VP .
+NP VP .
+NP VP . IN S .
+NP VP .
+NP VP . NP VP .
+NP , PP , VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP ADVP VP .
+NP VP .
+NP VP .
+S : S .
+NP VP .
+NP VP . NP VP .
+CC SBAR , VP . NNP
+VBP NP VP . INTJ , NP VP .
+PP , NP VP .
+WHADVP FRAG . NP VP .
+ADVP NP VP .
+PP , NP ADVP ADVP VP .
+NP VP . NNP
+NP VP .
+ADVP NP VP .
+ADVP , NP VP .
+NP : SQ .
+ADVP NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+WHNP SQ .
+CC WHADJP S .
+NP VP . SBAR NP VP .
+ADVP NP VP .
+VBZ NP NP . NP VP .
+SBAR NP VP .
+S , CC S . SBAR , NP VP .
+NP VP . NNP
+NP , NP VP .
+SBAR VP .
+ADVP NP . CC WHNP SQ .
+CC S , CC S . NP VP . NP VP . NNP
+SBAR NP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+ADVP PRN NP ADVP VP .
+CC , INTJ , NP VP . CC NP VP . NP VP .
+CC SBAR , NP VP .
+S , CC S .
+NP VP .
+WHADVP SQ .
+ADVP , NP VP .
+CC NP VP .
+PP , NP VP .
+CC S : S .
+NP VP .
+WHADVP SQ . WHADVP SQ .
+NP VP .
+NP VP .
+ADVP NP VP .
+CC NP VP . NNP
+CC ADVP SBAR VP .
+NP VP .
+S , CC S .
+WHADVP SQ .
+NP VP .
+ADVP , S NP VP .
+CC ADVP NP VP . NNP
+NP VP .
+NP VP .
+INTJ PRN VP .
+S , NP VP . NNP
+FRAG : S .
+CC NP VP .
+NP VP . ADVP , NP VP .
+ADVP , NP VP .
+NP VP . NP NP CC FRAG . NNP
+NP ADVP VP .
+ADVP NP VP .
+CC NP VP .
+CC NP VP .
+VP .
+NP VP .
+S : S .
+S , CC S .
+JJ . VP .
+NP VP . UH .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP . S , NP VP .
+ADJP , CC S .
+PP , NP VP .
+NP VP .
+CC NP VP
+ADVP NP VP .
+CC NP VP .
+VP .
+NP VP .
+CC NP VP .
+S , NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+ADVP NP VP .
+CC S : CC S .
+PRN , NP VP .
+CC NP ADVP VP .
+S , CC S .
+CC , S , CC S .
+S , CC S .
+CC S : S .
+NP VP .
+CC S : S .
+S : S .
+CC NP : S NP VP . NNP
+CC PP , NP VP . NP ADVP VP .
+CC PP , NP VP .
+NP VP .
+CC S , CC S .
+ADVP NP VP .
+ADVP NP VP .
+CC ADVP SBAR MD RB VP .
+NP VP .
+S , S , S .
+CC INTJ NP , PRN , NP VP .
+S : S : S .
+NP VP .
+PP VP NP . NP VP .
+ADVP , NP VP .
+NP VP .
+VP .
+VP .
+SBAR , NP ADVP VP .
+NP VP .
+PP , NP VP .
+SBAR NP VP .
+CC ADVP , NP VP .
+NP VP .
+NP : S
+NP VP . NNP
+ADVP NP . WHNP SQ .
+S : S : S . NP INTJ .
+ADVP NP VP .
+CC NP VP .
+SBAR , NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+NP , S . S : S .
+S : S .
+NP : NP .
+ADVP PRN NP VP .
+NP VP .
+NP VP .
+CC S , CC S .
+PP , PRN , VP .
+SBAR , NP ADVP VP .
+NP VP .
+CC NP .
+ADVP , VP .
+NP : S .
+NP VP .
+NP VP .
+S , CC S .
+ADVP NP VP .
+CC NP VP .
+CC ADVP NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+ADVP , NP .
+CC NP VP .
+NP VP .
+NP , SBAR , SBAR PRN NP VP .
+NP VP .
+NP VP .
+PP , NP VP .
+WHNP SQ .
+NP VP .
+MD NP VP .
+NP VP .
+S : S .
+NP , NP VP .
+NP VP .
+SBAR , NP VP .
+CC SBAR CC SBAR .
+NP VP .
+PP , NP VP .
+NP VP .
+INTJ , WHNP SQ .
+ADVP NP VP .
+NP VP .
+NP VP .
+VP .
+CC NP VP .
+S , CC S .
+NP VP .
+S , NP VP .
+S CC S .
+CC SBAR VP .
+S , CC S . NNP
+S , VP NP .
+S CC S .
+INTJ , PP , S , CC S .
+PP , NP VP .
+NP VP .
+CC ADVP : ADVP PRN NP VP .
+VP .
+CC SBAR , NP VP .
+NP VP .
+CC PP , NP VP .
+NP VP .
+CC NP ADVP VP .
+CC NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+NP , PP NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+ADVP NP VP .
+WHADVP SQ .
+CC ADVP NP VP .
+VP .
+CC NP VP .
+PP , NP ADVP VP .
+RB . ADVP NP VP .
+ADVP WHNP SQ .
+S FRAG .
+S : S . NNP
+NP VP .
+NP VP .
+NP SBAR .
+NP VP .
+CC ADVP NP ADVP VP .
+NP VP .
+NP VP .
+CC PP .
+NP VP .
+NP VP .
+CC NP-TMP NP VP .
+ADVP ADVP NP VP . CC SBAR : NP VP .
+NP VP .
+ADVP NP .
+NP VP .
+CC NP VP .
+ADVP VP .
+VP . RB RB .
+ADVP NP VP . S , NP VP .
+INTJ , VP . S , S .
+JJ . JJ . ADVP NP VP .
+ADVP NP VP .
+NP : S .
+CC ADVP NP VP . NP VP .
+S , CC S .
+PP , NP VP .
+ADVP PP NP VP .
+S , NP VP .
+ADVP NP VP .
+S , NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+S CC S .
+S , S .
+NP ADVP VP .
+NP VP .
+CC PRN NP ADVP VP . NNP
+NP VP . NNP
+PP , NP VP .
+CC NP PP .
+ADVP WHNP SQ .
+ADVP , NP . CC SBAR NP VP .
+NP VP .
+NP ADVP VP .
+PP NP VP .
+NP , ADVP , VP .
+CC NP VP . CC NP VP .
+NP PP PP , NP , VP VP .
+NP VP .
+ADVP , VP .
+S CC S .
+NP VP .
+NP-TMP , VP .
+S , CC S .
+WHNP SQ .
+CC NP VP .
+NP VP .
+CC ADVP NP VP .
+ADVP , NP VP .
+ADVP , S , CC S . NP VP .
+NP VP .
+ADVP NP VP . NP VP .
+CC ADVP NP-TMP NP VP , CC S .
+CC S CC S , CC S .
+CC ADVP PRN NP VP .
+CC ADVP ADVP VP .
+NP VP .
+CC ADVP NP VP .
+ADVP NP VP .
+S , SQ .
+NP VP .
+PP , NP VP .
+S , NP VP .
+NP VP . NP VP .
+NP VP . CC NP VP .
+CC NP ADVP VP . NNP
+WHNP IN S .
+NP VP .
+ADVP NP VP .
+CC SBAR NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC SBAR VP .
+NP VP .
+CC NP VP .
+ADVP WHNP SQ . NP VP .
+VP .
+VP .
+S , NP VP . NP VP .
+S , CC S .
+CC NP VP .
+NP VP . CC NP VP .
+CC NP VP .
+S , CC S .
+PP , PP , NP VP .
+NP : S .
+S , CC S .
+CC ADVP S .
+NP ADVP NP NP .
+S , CC S .
+NP VP .
+NP-TMP , S , CC S . NNP
+NP VP .
+S : FRAG .
+NP VP .
+NP VP . NNP
+NP VP .
+NP VP . NP VP . NP VP .
+NP VP .
+ADVP NP VP .
+NP : S .
+NP VP .
+NP : NP .
+PP , NP VP .
+CC NP VP .
+NP VP . S , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+VP .
+NP VP .
+NP NP VP .
+NP VP .
+ADVP , NP VP .
+S VP NP .
+S , CC S .
+CC S .
+CC SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+S CC S . NNP
+ADVP WHNP SQ , FRAG .
+WHNP IN S .
+WHADVP SQ .
+CC ADVP , NP VP .
+CC S , CC S .
+NP VP .
+SBAR , NP ADVP VP .
+NP VP .
+NP VP .
+NP VP . NP VP .
+ADVP , NP VP .
+S , S CC S .
+S : S .
+CC NP VP .
+NP VP .
+S , CC S .
+CC ADVP NP VP . NP VP .
+NP VP .
+ADVP NP VP .
+ADVP . ADVP NP VP .
+NP VP . NP VP .
+S , S , CC S .
+NP VP .
+S , CC S .
+S , CC S .
+NP : NP
+CC NP VP . NNP
+S , NP .
+CC NP VP .
+SBAR , NP VP .
+CC SBAR , NP VP .
+ADVP , S , CC S . CC S , CC S .
+NP VP .
+NP NP VP .
+S , NP VP .
+S : S . CC NP VP .
+NP ADVP VP . PP , NP VP . IN S . NNP
+S , NP VP .
+SBAR VP . NP , VP .
+S : S . SBAR VP .
+NP PP . NP PP .
+CC NP VP . CC NP VP .
+S , NP VP .
+PP NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+ADVP WHNP SQ .
+NP VP .
+CC PP NP VP .
+CC ADVP INTJ VP .
+CC NP VP .
+CC NP VP . CC PP , NP VP . NNP
+CC NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+SBAR , NP VP .
+ADVP NP VP .
+VP . NP VP .
+S , CC S .
+CC NP VP . NP VP .
+NP ADVP VP .
+ADVP NP VP .
+CC NP ADVP VP .
+S , CC S .
+S : S : S : CC S .
+ADVP PP .
+NP VP . S , S , CC S .
+PP NP VP .
+ADVP NP VP .
+WHNP SQ .
+CC VP .
+CC PP , NP ADVP VP .
+NP VP .
+ADVP , ADVP VP .
+NP VP .
+ADVP , NP VP .
+WHADJP PP .
+ADVP ADVP NP VP .
+CC PP , NP VP .
+CC NP VP .
+NP PP .
+NP VP .
+CC NP VP .
+NP , NP .
+CC NP VP .
+CC WHNP SQ .
+NP VP .
+DT JJ NN .
+CC ADVP , NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+PP , PP , NP VP . ADJP , ADVP .
+NP VP .
+IN S .
+CC NP VP .
+FRAG S .
+NP VP .
+CC NP VP .
+NP VP . MD NP VP . , ADJP . , ADJP . ?
+CC S , CC S , S , S , S , S , S , S , SBAR .
+CC NP VP .
+ADVP , NP VP . NNP
+S : S .
+CC VP .
+ADVP NP VP .
+PP , S , INTJ , S , PP .
+SBAR , NP VP .
+CC NP VP .
+S , CC S .
+S , CC S .
+CC NP-TMP , NP VP .
+S , CC S .
+NP VP . NNP
+S , CC S .
+NP VP . NNP
+NP VP . NNP
+CC PP , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP , NP VP .
+WHNP SQ .
+CC NP VP .
+ADVP , NP VP .
+CC NP VP . NNP
+NP VP .
+MD NP VP .
+S , CC S .
+JJ . NP VP . NP VP .
+CC NP VP .
+NP VP .
+NP VP . NP VP . NNP
+ADVP , PP , SBAR
+NP VP . ADVP NP VP .
+S , NP VP .
+NP VP .
+NP VP . S : S .
+S , NP , FRAG .
+NP VP . NNP
+CC NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+S , CC S .
+S , NP VP .
+NP VP .
+NP VP .
+NP VP . NP VP .
+S : NP .
+S : WHNP SQ .
+CC NP VP .
+S , CC S .
+NP ADJP .
+SBAR , WHNP SQ .
+FRAG , S .
+NP VP .
+NP VP .
+SBAR , ADVP NP VP .
+NP VP .
+SBAR , NP VP .
+PRN SBAR NP VP .
+ADVP , S CC S .
+NP : NP VP , INTJ .
+NP : INTJ VP .
+CC ADVP SBAR , NP ADVP VP .
+S , S , S : S .
+NP : VP .
+S , CC S .
+NP VP .
+NP , NP VP .
+NP VP .
+NP VP .
+SBAR VP .
+CC ADVP NP VP .
+CC ADVP NP VP .
+S , CC S .
+CC NP VP .
+CC SBAR NP VP .
+CC SBAR , NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP ADVP VP .
+NP VP .
+NP : S .
+NP VP . NP VP .
+S , CC S . NNP
+CC ADVP NP VP .
+CC NP ADVP NP NP ADVP .
+CC WHNP S .
+CC NP VP .
+CC S , CC S .
+S , S .
+CC NP VP .
+CC NP VP .
+SBAR , NP VP .
+S , CC S .
+S CC S .
+CC SBAR PRN NNP
+CC NP VP .
+CC S , CC S .
+CC S , CC S .
+VP .
+S , CC S .
+CC S PRN NP VP .
+MD NP VP .
+S , CC S .
+S SQ . NP VP .
+NP VP .
+CC S , CC S .
+S CC S .
+NP VP .
+CC NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+S , CC S .
+NP ADVP VP .
+NP VP . NP VP .
+S VP NP .
+NP VP .
+VBZ NP NP . WHNP SQ .
+CC NP VP .
+S , S , CC S .
+CC NP VP .
+ADVP NP VP .
+NP VP .
+CC ADVP NP VP .
+SBAR , VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP ADVP VP .
+INTJ , VP . NP VP . NP VP . ADVP NP VP .
+S : S .
+NP VP .
+PP , NP VP .
+ADVP , NP VP .
+S , CC S .
+ADVP , INTJ VP .
+SBAR , NP VP .
+CC NP VP .
+PP NP VP .
+SBAR , NP VP .
+VP .
+VP .
+SBAR , NP VP .
+ADVP VP .
+S , NP VP .
+NP VP .
+CC PP , NP VP .
+PP , FRAG , FRAG , FRAG , SBARQ . NNP
+NP ADVP VP .
+NP VP .
+NP VP .
+CC PP , NP VP .
+NP VP .
+INTJ , NP VP .
+CC SBAR , NP VP .
+NP : S .
+NP : S .
+S , SBARQ .
+S , VP NP .
+NP VP .
+NP VP .
+ADVP NP VP .
+ADVP , NP VP .
+S : S .
+S , ADJP NP .
+S , CC S .
+NP NP NP , NP , NP , NP .
+WHNP PP .
+NP VP .
+S , CC S .
+PRN WHNP SQ . NNP
+NP ADVP VP .
+ADVP NP-TMP , NP VP .
+NP VP .
+S , NP VP .
+PP NP VP .
+CC NP-TMP NP VP .
+ADVP NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+S , CC S .
+ADJP , CC S .
+NP VP .
+NP VP . NP VP .
+CC MD NP ADVP VP . VBP NP VP .
+NP VP .
+NP VP .
+CC , S , CC S .
+NP VP .
+NP VP . NP VP .
+NP VP .
+ADVP PRN , NP , WHNP SQ . NNP
+S , NP VP .
+NP ADVP VP .
+S CC S .
+CC NP VP .
+LST NN .
+MD NP VP .
+S , CC S .
+LST NP .
+NP : S . WHNP SQ .
+CC ADVP NP-TMP PRN NP VP . CC NP VP .
+NP VP .
+NP VP .
+ADVP NP VP . NP VP .
+CC NP VP .
+CC ADVP NP VP .
+NP VP .
+NP VP .
+SBAR VP .
+ADVP NP VP .
+NP : NP
+CC NP VP .
+S , PP , VP .
+SBAR , NP VP .
+CC ADVP ADVP VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+CC ADVP , NP VP .
+S , CC S .
+CC NP VP . FRAG : S : S . NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+S , CC S .
+ADVP NP VP . S : S . NNP
+S , FRAG .
+NP : FRAG .
+NP , VP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+S : S .
+ADVP , NP VP . NP VP .
+NP VP .
+NP : NP .
+NP : NP
+CC INTJ NP PRN VP .
+CC NP VP .
+NP , PP , VP .
+S , CC S .
+NP PP .
+NP : SQ .
+NP VP . NNP
+NP : S .
+ADVP NP VP .
+SBAR , NP VP .
+ADVP NP VP .
+PP , NP VP .
+NP : NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+ADVP NP VP .
+WHADVP FRAG .
+NP VP .
+ADVP NP ADVP VP .
+NP VP .
+S , NP VP .
+ADVP , NP , NP VP .
+NP : S .
+NP VP .
+CC S : S : CC S .
+PP , NP ADVP VP .
+CC ADVP , NP VP .
+PP , NP VP .
+SBAR , NP VP .
+S : S : S , S , CC S .
+NP VP . NP VP .
+NP VP .
+S , CC S .
+SBAR , VP .
+ADVP , PP , ADVP , SBAR VP .
+VBP NP VP . NP : S .
+VP . VP .
+NP VP .
+ADVP NP VP . VBZ NP NP .
+ADVP VP .
+NP VP .
+MD NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+NP VP .
+CC PP , NP VP . NNP
+NP VP .
+NP VP .
+NP SBAR .
+ADVP , NP VP .
+IN S .
+NP VP .
+MD NP VP .
+SBAR VP .
+ADVP , NP VP . NNP
+S , SBARQ .
+ADVP NP VP .
+NP VP .
+PP , S , CC S .
+NP VP .
+CC NP . MD NP VP . NNP
+NP VP .
+NP VP .
+CC ADVP NP VP .
+S , NP VP .
+NP VP . WHADVP SQ .
+CC S , VP .
+CC NP VP .
+NP VP .
+S , CC S .
+S , S : S , S .
+ADVP , NP S CC S .
+NP VP .
+ADVP NP VP .
+NP VP .
+INTJ , INTJ , PRN , NP VP .
+NP VP .
+CC NP VP .
+S , NP VP .
+NP VP .
+ADVP NP ADVP VP .
+CC NP VP .
+WHNP SQ .
+INTJ , IN S .
+ADVP NP VP .
+INTJ , ADVP NP VP .
+ADVP , NP VP .
+NP VP . NP , VP . NP VP .
+CC ADVP NP VP .
+CC NP VP .
+CC PP , NP VP .
+CC S , CC S .
+NP VP .
+NP ADVP VP .
+WHADVP SQ .
+CC S , ADVP S . NNP
+CC S CC S .
+CC ADVP , NP VP .
+NP PP .
+ADVP NP VP .
+S , NP VP .
+INTJ NP VP .
+NN . NNP .
+NP VP .
+S , CC S .
+NP VP .
+ADVP , NP VP . NP VP .
+CC NP VP .
+NP VP . NP VP . UH . VP . VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP . NP VP .
+CC NP ADVP VP .
+CC NP VP .
+ADVP , NP VP .
+S , CC S .
+CC NP .
+NP , FRAG , CC S .
+CC NP VP .
+RB . CC S , CC S . NP VP .
+NP PRN VP .
+CC NP VP .
+S : S .
+INTJ WHNP SQ .
+CC S CC S : S .
+PP , NP VP .
+CC S : NP VP .
+CC NP VP .
+CC S , PRN ADVP PRN NP VP . NNP
+CC NP VP .
+CC SBAR VP . NP VP .
+ADVP , NP VP .
+NP VP . NP VP .
+CC PRN NP VP .
+NP : S . , ADJP .
+INTJ , NP VP .
+CC S , CC S .
+NP VP .
+S , CC S .
+SBAR , ADVP , ADVP VP .
+NP VP .
+S , CC S .
+CC ADVP NP VP .
+NP VP .
+VP .
+CC SBAR NP .
+WHNP SQ .
+NP VP .
+ADVP NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+VP .
+SBAR , NP VP .
+PRN , S , WHNP SQ . NNP
+ADVP , WHADVP SQ .
+NP VP .
+S , CC S .
+NP : NP .
+NP : S .
+ADVP WHADVP SQ .
+S , CC S .
+S : S .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+VBP NP VP .
+NP VP .
+S NP VP .
+NP VP .
+NP VP .
+CC NP VP PRN SBAR .
+VP .
+NP VP .
+NP VP . PP , NP VP . VP .
+NP VP .
+CC NP VP .
+NP VP .
+IN S .
+S , CC S .
+VP . S , NP VP . NP , NP
+NP , ADVP , PP .
+ADVP , S , CC S .
+WHADVP SQ .
+NP VP .
+CC NP VP .
+CC ADVP , NP VP .
+ADVP VP NP .
+NP VP .
+PP , NP .
+S , CC S .
+NP VP .
+NP VP . NP VP .
+NP PP .
+NP VP .
+NP VP .
+NP VP . CC NP VP .
+S : SQ .
+CC NP VP .
+CC ADVP , S : S . NNP
+ADVP , PP NP VP .
+NP VP . NNP
+S CC S .
+NP VP .
+CC ADVP , NP VP .
+NP VP .
+NP VP .
+S , FRAG , FRAG .
+CC NP , NP VP .
+PP , NP VP .
+PP , NP VP .
+ADVP , WHADVP SQ .
+NP VP .
+CC ADVP , NP VP .
+NP , VP .
+NP , SBAR . CC NP VP .
+S , CC S . NP VP .
+CC SBAR VP .
+NP VP .
+SBAR , NP ADVP VP .
+NP VP .
+NP VP .
+NP VP .
+CC SBAR , NP VP .
+CC NP VP .
+NP VP .
+SBAR , NP VP .
+CC S CC S .
+S , NP VP . NNP
+CC NP VP .
+CC ADVP NP VP .
+NP PP .
+PP , NP VP .
+CC ADVP , PP , NP VP .
+NP VP . NNP
+NP VP .
+SBAR , NP VP . VP .
+SBAR , SBAR . NNP
+S , SQ . NNP
+NP VP .
+CC NP VP . NP VP .
+NP : NP . S , CC S . NNP
+ADVP VP .
+CC ADVP , SBAR , NP VP .
+S CC S .
+INTJ , NP VP .
+ADVP NP VP .
+ADVP NP VP .
+NP ADVP VP .
+NP VP .
+PP , NP VP .
+NP VP .
+ADVP NP VP .
+CC NP VP .
+NP VP . NP VP .
+ADVP NP VP . ADVP VP .
+ADVP , NP VP .
+CC S , CC S .
+S , S CC S .
+S , CC S .
+S , CC S .
+S , CC SBARQ .
+S , NP VP .
+NP VP .
+CC , PRN , NP VP .
+NP VP .
+S , CC S .
+CC NP : S : ADVP NP VP .
+NP VP .
+CC S , SQ .
+S , S .
+CC PP NP VP .
+SBAR , NP ADVP VP .
+NP VP .
+S CC S .
+CC NP VP .
+CC S .
+CC WHADVP PRN SQ . IN S . RB .
+UCP , ADVP , NP VP . S , CC S .
+S , FRAG .
+NP : NP .
+SBAR ADVP NP VP .
+ADVP , NP VP . WHNP SQ .
+S : S : S : S .
+S INTJ , CC FRAG .
+S , CC S .
+SBAR , VP .
+NP VP .
+SBAR , SBAR , NP VP .
+CC NP VP .
+S , S , CC S .
+ADVP SBAR VP .
+ADVP NP VP .
+NP VP .
+ADVP NP VP .
+CC S , NP ADVP VP .
+ADVP , SBAR , NP VP .
+CC S , CC S .
+ADVP , S , CC S .
+VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP . NP VP .
+INTJ , NP VP . NP VP .
+NP , NP VP .
+SBAR , NP , PP , SBAR , SBAR , NP VP . NNP
+NP VP .
+ADVP NP VP .
+CC NP VP .
+CC NP PRN VP .
+S : S : CC S .
+S , CC S .
+ADVP , NP VP .
+SINV : S .
+S : CC S . NNP
+S : S : S .
+NP VP .
+VP .
+NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+CC NP VP .
+NP : SBARQ .
+NP : NP .
+SBAR , NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+NP VP . NP VP .
+NP VP .
+CC NP VP . NNP
+CC NP VP . NNP
+S : S : S .
+ADVP SBAR VP .
+NP VP .
+CC NP VP . NNP
+UH .
+CC S , CC S , RB S .
+CC SBAR , NP VP .
+IN S .
+CC NP VP .
+NP : NP
+ADVP , NP , S , CC S .
+NP VP .
+ADJP , ADJP .
+SBAR , NP VP .
+ADVP , NP VP .
+PRN WHADVP SQ . NNP
+NP VP . RB .
+S , S , S , S .
+PP , NP VP .
+S , PP , VP .
+PRN , WHNP SQ . NNP
+NP VP .
+ADVP , NP VP .
+SBAR , NP ADVP VP .
+NP VP .
+S , NP VP .
+NP VP .
+SBAR , NP VP .
+ADVP NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+SBAR , S CC S .
+ADVP , NP VP .
+NP NP-TMP VP .
+NP VP .
+NP VP .
+CC S : S .
+NP VP . CC NP VP .
+NP VP . NP VP .
+PP , SBAR , NP VP .
+NP VP .
+S , CC S .
+INTJ NP VP .
+CC ADVP NP VP .
+CC , PP , S , CC S .
+NP VP .
+NP VP . NNP
+NP VP .
+NP VP .
+NP VP .
+S , NP VP .
+VBZ NP NP . INTJ , NP VP .
+ADVP SBAR , NP VP .
+S , CC S .
+ADVP NP VP .
+S , CC S .
+S , NP VP .
+ADVP VP .
+S , S , CC S .
+CC S , CC S .
+ADVP , S , CC S .
+CC NP VP . NNP
+ADVP VP .
+ADVP , ADVP VP .
+ADVP NP VP .
+NP : S .
+ADVP S , VP . NP VP .
+NP VP .
+NP : NP .
+NP VP .
+NP VP .
+S , CC S .
+NP VP .
+S , CC S .
+NP VP .
+NP : NP .
+PP , NP VP .
+CC NP VP .
+NP PP .
+VBP NP VP .
+CC WHADVP SQ .
+NP VP .
+NP VP .
+SINV , S .
+NP VP .
+CC S , CC S .
+NP VP .
+ADVP , S , RB S . NNP
+CC NP VP .
+NP VP .
+ADVP , NP VP .
+CC SBAR , NP VP .
+VP . NP VP . NNP
+S , NP VP .
+CC NP VP .
+CC SBAR NP VP .
+NP VP .
+PP , NP VP .
+ADVP NP VP .
+FRAG , CC FRAG .
+CC S , S .
+NP : ADVP S , CC S .
+NP : FRAG .
+S , CC S .
+SBAR , NP VP .
+NP ADVP VP .
+S , CC S .
+NP ADVP VP .
+NP VP .
+WHADVP SQ .
+NP VP .
+ADVP , NP VP .
+NP VP .
+NP PP .
+CC S , CC S .
+S , CC S .
+PP , NP VP .
+NP , NP VP .
+S , NP VP .
+CC ADVP , SBAR , S , RB S .
+CC ADVP PP , NP VP .
+S , NP VP .
+CC PP VP NP .
+S , NP VP .
+NP VP .
+SBAR VP .
+NP VP .
+SBAR UCP .
+S : S . S , CC S .
+S , NP VP . NNP
+CC NP VP .
+NP VP .
+PP PP .
+NP VP .
+NP VP .
+INTJ , NP ADVP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+S , CC S .
+SBAR , NP VP .
+S , NP ADVP VP .
+ADVP NP VP .
+S , CC S .
+NP VP .
+INTJ , S , CC S . NNP
+NP VP .
+CC S .
+CC NP VP .
+ADVP NP VP .
+CC ADVP NP VP .
+ADVP NP VP .
+PP , NP VP .
+NP : S .
+VP .
+NP VP .
+CC SBAR , S , CC S .
+INTJ , S , S , CC S .
+PP , NP VP .
+INTJ , NP VP .
+JJ . NP VP .
+S , SQ . NNP
+CC NP VP .
+CC NP VP .
+S , FRAG . NNP
+S : S .
+NP VP .
+S SQ . NNP
+RB JJ .
+NP VP .
+NP VP .
+NP VP .
+CC S , CC S .
+JJ NN .
+NP VP . NNP
+CC NP VP . NNP
+MD NP VP . NNP
+CC S , CC S . NNP
+CC NP VP .
+ADVP , NP VP .
+VP .
+S , CC S .
+CC S CC S .
+IN S .
+CC NP VP PRN PP .
+PP , NP VP .
+CC ADVP , NP ADVP VP .
+CC NP VP .
+CC NP VP .
+FRAG , FRAG , CC FRAG .
+ADVP , ADVP .
+ADVP NP VP .
+SBAR , S , CC S : S , S . NP VP .
+CC NP VP .
+SBAR , WHNP SQ .
+CC NP VP .
+VP . VP . NNP
+NP VP .
+SBAR , ADVP VP .
+ADVP NP-TMP , NP VP .
+S , CC S .
+ADVP , S , S , CC S .
+NP VP .
+NP VP .
+NP , ADVP , NP VP .
+CC SBAR , NP VP .
+CC NP VP . NP VP .
+CC S , CC S .
+CC NP VP .
+CC NP ADVP VP .
+CC NP VP .
+ADVP NP VP .
+S , NP VP .
+VP . NP VP .
+S : S .
+CC NP VP . NNP
+S , CC S . NNP
+CC NP VP .
+S , NP VP .
+NP VP .
+S , CC S .
+NP VP .
+ADVP , NP ADVP VP .
+NP VP .
+NP VP . NP VP .
+NP VP .
+NP VP .
+S , S .
+IN SBAR , S , CC S .
+ADVP NP VP .
+NP , NP .
+NP VP . NNP
+S , NP VP . FW .
+RB .
+FRAG NP .
+IN NP .
+S , CC S .
+CC PP NP VP .
+SBAR , NP VP .
+ADVP , NP VP .
+NP VP .
+S , NP VP .
+CC ADVP NP VP .
+ADVP VP NP .
+ADVP , WHNP SQ .
+CC ADVP NP VP .
+NP VP .
+NP-TMP , NP VP .
+CC ADVP NP .
+ADVP , NP VP .
+VP .
+ADVP NP VP .
+S , CC S .
+CC NP VP .
+SBAR , NP VP .
+CC NP VP . JJ NN .
+NP , SBAR . NP VP .
+ADVP NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP , VP .
+CC ADVP WHNP SQ . JJ NN .
+NP : S
+NP VP . CC NP VP . NNP
+NP VP . S , FRAG . NNP
+CC ADVP NP VP . NNP
+ADVP NP VP .
+S , NP VP .
+CC S , CC S .
+NP VP .
+NP ADVP VP .
+CC PP , NP VP .
+NP VP .
+S : S .
+NP VP .
+CC NP VP .
+CC NP VP .
+VP .
+SBAR , NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP SBAR .
+NP VP .
+NP VP .
+ADVP , NP VP .
+VBP NP VP .
+S CC S .
+CC NP VP .
+NP VP .
+SBAR , NP VP .
+S , CC S .
+NP VP . NNP
+VP .
+NP VP .
+ADVP NP VP .
+ADVP NP VP .
+CC ADVP NP VP .
+NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP PP .
+NP VP .
+SBAR , NP VP .
+CC ADVP VP NP .
+NP VP .
+CC NP VP .
+CC NP VP .
+CC NP VP .
+S , CC S .
+CC NP VP .
+CC S CC S .
+NP VP .
+NP VP .
+CC PP , NP VP .
+NP VP .
+NP-TMP , SBAR , NP .
+PP NP VP .
+CC PP , S , CC S . NNP
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+CC NP VP .
+S : S .
+NP VP . , SBAR
+CC ADVP NP .
+NP VP .
+NP VP .
+CC NP VP .
+CC SBAR .
+CC NP VP .
+NP VP .
+CC ADVP NP VP .
+NN . NP VP .
+NP ADVP , SBAR .
+S , CC S .
+CC NP VP .
+MD NP VP .
+NP VP . WHNP SQ .
+NP VP .
+NP VP .
+NP : SBARQ .
+ADVP NP VP .
+VP .
+PP , NP VP .
+NP ADVP .
+ADVP NP VP .
+ADVP NP VP .
+CC ADVP PP , NP VP .
+CC ADVP WHNP SQ .
+ADVP NP .
+VP .
+S , SQ . NNP
+ADVP NP-TMP NP VP .
+PP , NP VP .
+ADVP , NP VP .
+SBAR , CC ADVP NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+CC S , NP ADVP VP .
+NP , VP .
+ADVP , NP VP .
+NP VP .
+S , CC S .
+NP VP . NP VP .
+SBAR , NP VP . NNP
+S , CC S .
+SBAR , NP VP .
+NP VP .
+NP-TMP , NP VP .
+NP NP .
+S : S .
+NP VP .
+S , NP VP .
+CC S : SBARQ .
+NP VP . NP VP .
+NP ADJP .
+NP VP .
+ADVP NP VP .
+CC S , CC S .
+CC NP VP .
+NP VP .
+S , CC S .
+S , CC S .
+CC NP VP .
+ADVP NP VP .
+CC NP VP .
+NP VP .
+INTJ PP , NP VP .
+S : S .
+NP VP .
+CC ADVP , ADVP NP VP .
+CC NP VP .
+ADVP NP VP .
+ADVP WHNP SQ .
+SBAR , SBAR , VP .
+ADVP , ADVP , NP ADVP VP .
+CC ADVP , ADVP , NP ADVP VP .
+S , CC S .
+NP VP .
+CC ADVP VP NP .
+SBAR VP .
+NP VP .
+NP VP .
+NP : S .
+NP VP . S , NP VP .
+NP VP .
+NP VP .
+CC ADVP SBAR , NP VP .
+WHADVP SQ .
+CC SBAR ADVP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+WHNP SQ .
+S VP .
+NP VP .
+CC NP VP . NNP
+NP VP .
+CC NP VP .
+S , CC S .
+CC SBAR , NP VP .
+S : S .
+NP VP .
+CC SBAR , NP VP .
+VP .
+NP ADVP VP .
+NP VP .
+WHADVP SQ .
+SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP-TMP NP VP .
+S , CC S . NP VP .
+CC S , CC S . CC NP VP . NP VP .
+CC NP VP . S , S . NP VP .
+NP VP .
+SBAR VP .
+NP VP .
+ADVP NP VP . NNP
+NP VP .
+S , CC S .
+NP VP .
+CC NP VP .
+NP : S .
+S : S S S S S .
+CC NP VP .
+SBAR , NP VP .
+ADVP NP VP . NNP
+CC S VP .
+NP VP .
+ADVP , NP VP .
+ADVP NP VP .
+NP : NP
+ADVP , NP VP .
+S , CC S .
+NP VP .
+CC NP VP . NP VP .
+NP VBZ NP NP .
+CC ADVP NP VP .
+NP VP .
+PP NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+CC S CC S .
+CC NP VP .
+UH .
+VP . VP .
+CC WP IN NP .
+S , CC S .
+NP VP .
+NP VP . ADVP , NP VP .
+ADVP , NP VP .
+NP VP .
+ADVP , NP VP .
+WHADVP SQ . NN .
+CC S CC S CC ADVP .
+CC , PRN , VP . INTJ NP PP .
+VP .
+S , CC S .
+ADVP NP VP .
+S , CC S .
+NP VP .
+CC SBAR , NP VP .
+CC SBAR NP VP . NNP
+NP VP .
+NP VP .
+CC ADVP , PP PP , S .
+CC NP VP .
+NP VP .
+NP VP .
+S , CC S .
+CONJP SINV , CC S .
+NP VP .
+VP . NP : VP .
+CC NP VP .
+NP VP .
+NP VP . PRN INTJ .
+ADVP VP NP .
+ADVP NP VP .
+ADVP , SBAR .
+CC NP VP . NP VP .
+NP VP . CC NP VP .
+NP VP .
+NP VP .
+CC SBAR , SBAR , SBAR , NP VP .
+ADVP , NP VP .
+NP VP .
+NP , ADVP , VP .
+NP VP .
+ADVP , ADVP , PP , NP VP .
+INTJ , ADVP NP VP .
+ADVP , NP VP .
+CC S , CC S . NNP
+CC INTJ , NP VP .
+CC S , CC S .
+NP VP .
+SBAR , NP ADVP VP .
+S , CC S .
+NP : NP .
+CC NP VP .
+NP VP .
+S : S .
+NP : S . NP : NP .
+CC NP VP .
+NP VP .
+CC S , CC S .
+NP VP .
+NP VP . MD NP VP .
+NP ADVP VP .
+CC PP , NP VP .
+CC ADVP NP .
+INTJ SBAR VP .
+NP VP .
+CC NP VP .
+ADVP NP ADVP VP .
+CC NP VP .
+S : S .
+S , NP VP .
+S : S : S : CC S .
+CC NP VP .
+NP VP .
+ADVP NP VP . FRAG , CC S .
+ADVP WHADVP SQ .
+S , NP VP .
+ADVP WHNP SQ .
+CC SBAR VP .
+ADVP NP VP .
+SBAR , NP VP .
+NP VP .
+ADVP NP VP .
+SBAR NP VP .
+NP VP .
+CC INTJ , NP VP .
+NP VP .
+CC SBAR VP .
+S , NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+ADVP NP VP .
+NP VP . NP VP .
+ADVP , VP .
+CC NP VP .
+NP VP .
+NP VP . NP NP . NP NP .
+VBP NP VP .
+NP VP .
+NP VP .
+S , CC S .
+ADVP , SBAR VP .
+ADVP , NP VP .
+CC NP VP .
+CC NP VP .
+CC NP VP PRN SBAR .
+PP , S , CC S .
+CC NP ADVP VP .
+NP-TMP , NP VP .
+PP , ADVP VP .
+ADVP NP VP .
+PP VP NP .
+ADVP NP VP .
+NP .
+CC PRN NP VP .
+NP VP .
+CC S , CC S .
+NP , NP VP .
+NP : NP
+NP VP .
+NP VP .
+NP , PP , NP VP .
+NP VP .
+CC , INTJ , NP VP .
+NP VP .
+VP . VP .
+NP VP .
+S , VP NP .
+PP , NP VP .
+CC ADVP , PP , NP VP .
+CC NP , PRN , VP .
+S , CC S .
+NP VP .
+INTJ , NP VP .
+ADVP , NP VP .
+IN S . RB , RB JJ .
+WHADVP . S , CC S .
+CC NP VP .
+CC ADVP , SBAR , NP VP .
+SBAR , NP VP .
+ADVP , PP , NP VP .
+S , SQ CC SQ .
+S , NP VP .
+S , CC , S .
+S : S .
+NP ADVP VP . NP VP .
+CC NP VP .
+ADVP NP VP .
+IN S .
+S : S .
+ADVP SBAR .
+NP VP .
+NP VP .
+CC PP NP VP .
+CC , NP VP .
+PP , ADVP VP .
+NP VP .
+NP VP .
+CC NP VP .
+S , CC S .
+S , CC S .
+S , S , S . NNP
+NP VP .
+CC PRN NP VP .
+CC SBAR VP .
+ADVP , SBAR , VP . WHADVP SQ . NNP
+NP VP .
+NP ADVP VP . NP VP . NN . NNP
+S : S .
+NP VP .
+S PRN CC S .
+SBAR VP .
+ADJP .
+S VP .
+S : CC S .
+NP VP .
+NP VP .
+NP PP .
+CC SBAR NP VP .
+NP VP .
+S : S : CC S .
+CC ADVP NP VP .
+CC NP VP .
+NP VP .
+CC ADVP NP VP .
+CC ADVP NP VP .
+S : S .
+CC S NP VP .
+CC ADVP VP NP .
+S , CC S .
+NP VP .
+CC NP VP . NNP
+NP VP . NNP
+CC SBAR VP .
+CC NP VP .
+ADVP NP VP .
+NP VP .
+S , SQ .
+CC NP VP . ADVP VP . NNP
+NP ADVP VP .
+S , NP VP . PP , NP VP . NP VP .
+CC NP VP
+NP : S .
+CC ADVP NP VP .
+CC NP VP .
+S , NP VP .
+WP IN NP .
+S , NP VP .
+NP : RB NP .
+WHADVP SQ .
+CC NP VP .
+ADVP NP NP .
+CC NP VP .
+NP VP .
+CC ADVP NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+SBAR , NP VP .
+S , CC S .
+CC ADVP , NP VP .
+CC ADVP VP .
+FRAG , CC FRAG .
+NP VP .
+S , NP VP .
+FRAG , SQ .
+NP : S
+ADVP VP NP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP : NP
+ADVP NP VP .
+VBD NP VP .
+NP SBAR .
+NP VP .
+ADVP NP VP .
+ADVP , NP VP .
+CC S , CC S . CC ADVP ADVP , NP VP .
+NP CC NP .
+ADVP NP VP .
+ADVP NP VP .
+ADVP , ADJP . NP VP .
+S , CC , S , S S . CC NP VP .
+NP ADVP VP . NNP
+CC NP VP . NP VP .
+NP-TMP , NP-TMP , NP .
+S , CC S .
+S , CC S .
+ADVP , WHNP SQ .
+RB NP .
+NP VP .
+NP VP .
+NP VP .
+S , S .
+NP VP .
+VBP NP VP .
+ADVP VP , NP .
+NP : S .
+S : S .
+S : S .
+NP VP .
+NP VP .
+NP VP .
+INTJ NP VP .
+WHADVP SQ .
+CC NP VP .
+ADVP VP .
+PP , NP VP .
+CC NP VP .
+VP .
+CC ADVP NP .
+CC NP VP .
+NP : NP
+S , CC S , SBARQ .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , SQ .
+ADVP SBAR , NP VP .
+CC ADVP , S , S .
+NP VP .
+CC NP ADVP VP .
+CC WHNP SQ . INTJ , S , CC S .
+NP VP .
+ADVP NP VP .
+CC SBAR , NP VP .
+CC ADVP , SBAR , NP VP .
+NP , NP VP .
+NP .
+INTJ , PP , PP , SBAR , NP VP .
+ADVP , NP VP .
+NP VP .
+NP : S
+NP VP .
+NP VP .
+S , SQ . INTJ , NP VP .
+CC ADVP ADVP VP .
+NP VP . NP VP .
+SBAR , NP VP .
+FRAG , CC S .
+NP PP PP PP .
+NP PP .
+ADVP SBAR VP .
+CC NP-TMP , NP VP .
+NP VP .
+CC SBAR , NP ADVP NP-TMP VP .
+CC NP VP .
+NP VP .
+NP VP .
+VBZ NP NP . UH .
+PP NP VP .
+NP ADVP VP .
+CC SBAR .
+S , CC S .
+CC NP VP . NNP
+NP VP .
+NP VP .
+PP , PP , NP VP .
+S , CC S .
+NP VP . NNP
+NP : S .
+S , CC S .
+NP VP .
+NP VP .
+S , CC S .
+NP VP . S , CC S . ADVP SBAR , NP VP .
+CC S , CC S .
+INTJ , S , CC S .
+CC NP VP .
+S , S , CC S .
+S , CC S .
+ADVP , ADVP NP VP . PP , NP VP . NP , NP
+PP , NP VP .
+CC NP VP .
+SBAR , NP VP .
+NP VP .
+CC SBAR VP .
+ADVP NP VP .
+ADVP NP VP .
+INTJ , SBAR , NP ADVP VP . NP ADVP VP .
+NP ADVP VP .
+S , NP VP .
+NP VP .
+FRAG FRAG
+CC NP VP .
+NP VP .
+CC WHNP SQ .
+NP VP .
+NP VP .
+S , CC S .
+S , CC S .
+PP , S , CC S . VP .
+PP , NP VP .
+ADVP NP , VP . CC NP VP .
+NP ADVP .
+NP VP .
+CC , ADVP , PP NP VP .
+NP VP .
+SBAR : NP VP .
+S : S . NNP
+NP VP .
+PP , NP VP .
+ADVP NP VP .
+ADVP , NP VP .
+NP VP .
+CC ADVP NP VP .
+NP VP .
+S : S . NP VP .
+ADJP VP NP .
+VP .
+NP VP . NP VP .
+CC NP VP . NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+WHADVP FRAG .
+INTJ , NP VP .
+ADVP NP .
+ADJP , PP , SBAR .
+S , CC S .
+ADVP VP .
+S , NP VP .
+S , CC S .
+CC NP VP .
+NP VP . NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+S , NP VP .
+NNS . : S : S . : NP VP . NNP
+S , IN S .
+S , CC S .
+CC SBAR , NP VP .
+NP : NP
+NP ADVP ADVP NP VP .
+CC SBAR , NP VP .
+CC NP VP .
+NP VP .
+INTJ , S , NP VP .
+S CC S .
+NP VP .
+S , CC S : S , S , S .
+S : S . NP VP .
+ADVP NP , PRN , NP VP .
+NP VP .
+NP VP .
+NP VP .
+IN NP .
+NP VP . CC ADVP NP VP . S CC S .
+CC NP VP .
+S , S , CC S .
+NP VP .
+CC NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP . NP VP .
+NP VP .
+S , CC S .
+PRN INTJ NP VP .
+CC NP VP .
+S : S .
+PP VP NP .
+S , CC S .
+PP NP VP .
+ADVP , S , CC S .
+S CC S .
+CC PRN NP VP .
+CC S , CC S .
+NP : NP
+RB IN S .
+SBAR , NP VP .
+ADVP VP . NP VP . NNP
+NP VP .
+CC S CC S .
+S , CC S .
+NP VP .
+CC S , CC S .
+S , CC S .
+CC NP VP . NP VP .
+NP VP .
+S SQ .
+NP : S .
+ADVP , SBAR VP .
+NP VP .
+S , CC S . VP .
+CC : NP VP .
+INTJ SBAR , NP VP .
+NP VP .
+NP VP .
+CC S , CC S .
+S , CC S .
+NP VP .
+ADVP NP VP .
+S : S .
+PP , S , CC S .
+ADVP NP VP .
+NP VP .
+NP VP .
+NP VP .
+PP , NP PRN VP .
+NP VP .
+NP VP .
+CC NP ADVP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , SBARQ . NNP
+ADVP NP VP .
+CC NP VP .
+CC SBAR , NP VP .
+CC ADVP NP VP .
+NP VP .
+ADVP VP .
+CC SBAR , ADVP NP VP .
+S , CC S .
+ADVP VP .
+S , S : S , S , S .
+S , CC S .
+CC NP VP .
+NP VP . NP : S . NP , NP
+CC S .
+S , S .
+CC S : S .
+CC NP VP .
+WHADVP SQ . IN S .
+CC NP VP .
+CC ADVP , S .
+S , NP VP .
+VP .
+CC SBAR VP .
+S , NP VP .
+VP .
+NP VP .
+ADVP WHADVP S .
+NP VP .
+ADVP VP NP .
+ADVP , NP VP .
+NP ADVP VP .
+NP VP .
+ADVP , S VP .
+NP ADVP VP .
+NP VP .
+NP VP .
+NP VP . NP PRN VP .
+CC NP VP .
+CC NP VP . NNP
+NP : S .
+S : S .
+ADVP , S : S .
+SBAR , NP VP . NP VP .
+S , CC S . NP VP .
+NP ADVP VP .
+NP VP .
+CC S , CC S .
+NP VP .
+CC NP VP .
+CC NP VP .
+CC SBAR VP .
+PP , SBAR , NP VP .
+IN S . NP VP . NNP
+CC S CC S .
+NP VP .
+NP-TMP NP VP .
+NP VP .
+CC NP .
+CC PP , NP VP .
+S , CC S .
+S VP NP .
+NP VP .
+WHNP SQ .
+NP , S , NP VP .
+NP VP .
+S , NP VP .
+ADVP VP NP .
+NP ADVP VP .
+CC NP VP .
+S , CC S . NNP
+ADVP NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+S : S .
+CC ADVP NP VP .
+S : S .
+SBAR , NP ADVP VP .
+CC ADVP NP VP .
+ADVP NP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP , NP VP . INTJ NP NP VP . S : S . S : S . NP VP .
+S : S .
+ADVP , ADJP . UH , AFX UH . NNP
+NP VP . NP VP .
+WHNP SQ . UH , AFX UH . NNP
+SBAR , VP . VP . VP .
+ADVP , S , S .
+NP VP . S , NP ADVP VP . NP VP . SBAR , NP , NP VP . NNP
+CC NP VP .
+CC NP VP .
+NP VP . CC NP VP . NNP
+NP VP .
+S , S , S . NNP
+S , WHNP SQ . NP VP . NNP
+NP VP .
+NP VP .
+ADVP NP VP . ADVP NP VP .
+CC NP VP .
+WHNP SQ . NP VP .
+S , CC S .
+NP VP .
+VP .
+S , S CC S .
+NP VP .
+CC ADVP , NP VP .
+NP ADVP ADVP VP .
+CC S , NP VP .
+S , CC S .
+NP VP .
+CC ADVP NP VP .
+NP VP . NP VP .
+NP VP .
+S , CC S .
+CC NP ADVP VP .
+CC PP , NP VP .
+S CC S .
+NP VP .
+NP VP .
+CC NP VP .
+SBAR , NP VP .
+CC VP . NP : S .
+ADVP PRN NP ADVP VP .
+INTJ , S , S , CC S .
+NP VP .
+NP VP .
+ADVP , PP , NP VP .
+NP VP .
+ADVP , PP , SBAR .
+WHNP S .
+S CC S .
+CC PP , NP VP .
+PP , NP VP .
+CC NP VP .
+CC SBAR , SBAR , ADVP VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+CC PRN NP ADVP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+CC S , CC S .
+ADVP , NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC SBAR , NP VP .
+ADVP NP PP .
+NP VP .
+NP VP .
+NP VP .
+ADVP , S , VP .
+CC NP SBAR , NP VP .
+S , CC S .
+S , CC S . S , CC S .
+CC NP VP .
+NP VP .
+VP
+NP VP .
+ADVP , S , CC S .
+CC NP VP .
+ADVP , S , S : S .
+WHADVP SQ .
+NP VP .
+S , CC S .
+S , CC S .
+S : S .
+ADVP NP VP .
+VP .
+SBAR , WHNP SQ .
+CC NP VP .
+NP VP .
+IN S .
+ADVP NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP . NNP
+NP VP .
+NP VP .
+ADVP , NP VP .
+CC ADVP , NP VP . NP VP .
+S , CC S .
+CC NP VP .
+NP ADVP VP .
+ADVP VP .
+NP VP .
+ADVP , NP VP .
+CC ADVP , NP VP .
+WHADVP SQ . S , NP VP .
+VP .
+S , CC S .
+NP VP .
+NP VP .
+NP VP .
+S CC S .
+NP VP .
+ADVP , NP VP . NNP
+NP VP .
+NP VP .
+S CC S , SBARQ . NNP
+NP VP . NP VP .
+NP-TMP , NP VP .
+NP VP .
+ADVP VP .
+NP VP . NP VP . NP VP .
+NP VP .
+NP : NP .
+NP VP .
+CC ADVP VP .
+ADJP : S .
+CC NP VP .
+NP VP .
+PP VP SBAR .
+NP VP .
+NP ADVP VP .
+NP VP . NNP
+NP PP . NP PP .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+NP VP .
+ADVP NP VP .
+PP NP VP .
+NP : S
+S , NP .
+CC PP .
+CC NP ADVP VP . NP VP .
+PRN , WHNP SQ . NNP
+CC NP VP .
+S , CC S .
+CC NP VP .
+CC VP .
+NP PRN VP .
+VBP NP VP .
+CC NP VP .
+NP , ADVP , VP .
+SBAR , NP VP .
+SINV , CC SINV .
+NP VP .
+CC PP , NP VP .
+UH . ADVP , ADVP , NP VP .
+NP VP . S , CC S .
+S , CC S .
+CC NP VP .
+NP VP .
+S , CC S .
+ADVP , PP , PP , NP VP .
+ADVP NP VP .
+S CC S . NP VP .
+ADVP , PP , SQ .
+VBP NP VP . CC , PRN , NP VP . ADVP , NP VP .
+VBP NP VP .
+S , S , S .
+NP VP .
+PP , NP VP .
+S CC S .
+INTJ , NP .
+NAC , NP VP .
+CC ADVP PP NP VP .
+ADVP , NP ADVP VP .
+ADVP , NP VP .
+PP , PP , NP VP .
+PP , NP VP .
+NP VP .
+CC WHADVP SQ .
+ADVP NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+SBAR , NP VP .
+WHADVP SQ .
+NP VP .
+S : CC S .
+PRN NP VP .
+S , CC S .
+NP VP .
+ADVP NP VP .
+INTJ NP VP .
+ADVP NP ADVP .
+CC NP VP .
+NP-TMP . NP ADVP VP .
+ADVP S , CC S .
+CC NP VP .
+SBAR , ADVP VP .
+CC NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+VBG NP PP .
+ADVP NP VP .
+PP , NP VP .
+PP , NP VP .
+IN S .
+CC NP VP .
+NP VP .
+PP NP VP .
+CC ADVP , S , PP , NP , VP .
+FRAG : S .
+NP VP .
+NP VP .
+NP : S
+CC ADVP NP VP .
+CC SBAR VP .
+WHADVP SQ .
+NP VP . NP VP .
+PRN , WHNP SQ .
+S , CC S .
+S : S .
+NP VP . NP VP .
+S , NP VP .
+NP VP .
+ADVP , NP VP .
+NP VP .
+INTJ , NP VP .
+PP , NP : NP VP .
+CC PP VP PP .
+NP ADVP VP .
+WHNP SQ .
+NP VP . PP PRN NP ADVP VP .
+S : S : S . NNP
+NP VP .
+CC NP VP .
+VP . VP . NNP
+PP , ADVP NP VP .
+SBAR NP VP .
+VP .
+NP VP .
+CC ADVP , NP VP .
+S , CC S .
+ADVP NP VP .
+NP VP .
+S , CC S .
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+CC ADVP NP VP .
+VBZ NP ADJP .
+NP : S .
+ADVP NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+ADVP NP VP .
+NP VP .
+ADVP WHNP SQ .
+NP VP .
+ADVP NP VP . WHNP SQ .
+NP VP INTJ ADVP VP .
+NP VP .
+CC NP VP .
+ADVP NP ADVP VP .
+ADVP NP VP .
+CC PP , NP VP .
+CC NP VP .
+CC NP VP .
+CC NP VP .
+ADVP NP VP .
+ADVP NP VP .
+VP .
+CC NP VP .
+INTJ , ADVP NP . FRAG , NP .
+CD . ADVP NP VP .
+NP VP .
+S , NP VP .
+CC S .
+S , CC S .
+NP PP , PP .
+PP PRN NP VP .
+RB GW NN SBAR .
+NP VP .
+FRAG , S . ADVP S : S .
+NP VP .
+VP .
+S , CC S .
+CC NP VP . NNP
+CC NP VP .
+CC NP VP .
+NP VP .
+S , CC S .
+WHNP FRAG .
+NP : VP .
+NP VP .
+VP .
+SBAR NP VP .
+PP , NP VP .
+CC ADVP NP VP .
+CC NP VP .
+NP VP .
+ADVP , WHADVP SQ .
+NP VP .
+CC NP VP .
+CC NP VP .
+S , NP VP .
+S , CC S .
+S , CC S . S , NP VP .
+NP VP . NNP
+WHNP SQ .
+S , CC S . VP .
+S , CC S .
+ADVP ADVP PP , NP ADVP VP .
+SBAR , NP VP .
+NP VP .
+CC ADVP SBAR , NP VP .
+PP , NP VP .
+ADVP VP NP .
+NP VP .
+CC NP VP .
+CC NP ADVP VP .
+CC SBAR , NP VP .
+SBAR , NP VP .
+CC NP VP .
+ADVP NP VP .
+CC NP VP .
+CC PP , NP VP .
+CC NP ADVP VP .
+VP .
+ADVP VP NP .
+S , S , CC S .
+S : S .
+ADVP ADVP , NP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+CC NP VP .
+CC NP .
+S , CC S .
+MD NP VP . NP VP . NP VP . ADVP PP : NP : NP .
+NP VP .
+S CC S .
+NP VP .
+SBAR , NP VP . NNP
+CC NP VP .
+NP , SBAR , NP VP .
+SBAR , SBAR , ADVP , SBAR , VP .
+CC ADVP NP VP .
+NP VP .
+NP VP . NP VP .
+ADVP NP VP .
+ADVP , FRAG , NP , S .
+CC SBAR NP VP .
+NP VP .
+NP VP .
+CC SBAR VP . NP VP .
+NP VP .
+CC S : S : CC S .
+S , NP VP .
+ADJP VP SBAR .
+SBAR , PP , NP VP .
+NP , CC S .
+ADVP WHADVP SQ .
+NP VP .
+SBAR , NP VP .
+S , CC S .
+CC ADVP NP VP .
+NP VP .
+S , NP VP . NNP
+VP .
+CC VP .
+CC ADVP , ADVP , NP VP .
+NP VP .
+CC NP VP .
+ADVP VP .
+NP : S .
+CC S VP .
+NP ADVP VP .
+NP VP . S , NP VP .
+NP VP .
+NP ADVP VP .
+NP ADVP VP .
+ADVP NP VP .
+UH .
+S , CC S .
+NP VP .
+CC NP VP . NNP
+WHADVP SQ .
+NP : NP .
+NP : S .
+NP VP .
+INTJ , ADVP , VBP NP VP .
+NP : SBARQ .
+INTJ , ADVP , VP .
+CC VP .
+VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP : NP VP .
+VBP NP VP .
+NP VP . UH . UH . RB JJ . VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+PRN VBP NP VP . NNP
+S , NP VP .
+SBAR , NP VP .
+VP .
+ADVP NP VP .
+DT NN .
+SINV , CC S .
+S , SBARQ .
+CC NP VP .
+NP VP . NNP
+ADVP S , CC S .
+NP VP . NNP
+NP VP .
+NP-TMP , S , S , S .
+NP VP .
+NP ADVP VP . NP VP .
+NP VP .
+S , CC S . ! WHNP SQ . ! NNP
+IN S .
+NP VP .
+CC NP VP .
+ADVP NP VP .
+NP VP .
+NP NP ADVP PP .
+NP VP .
+ADVP NP .
+CC NP VP .
+NP VP .
+RB . IN S .
+PP , NP VP .
+ADVP , NP VP . WHADVP SQ NP . INTJ , ADVP .
+CC ADVP , ADJP S .
+PP , NP VP .
+CC NP VP .
+CC NP VP .
+VP .
+CC NP VP .
+CC NP VP .
+NP VP .
+NP , NP , NP .
+S : S .
+NP VP .
+NP VP .
+CC ADVP VP .
+S , CC S .
+NP VP .
+NP VP . SBAR : NP VP .
+NP VP .
+S : S .
+ADVP NP VP .
+S , CC ADVP S .
+NP VP .
+CC SBAR , NP VP .
+CC ADVP ADVP VP .
+S : S .
+NP VP .
+S , NP VP . SQ , CC SQ .
+S : S .
+S , NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+S , CC S .
+S , CC S .
+INTJ , ADVP VP .
+ADVP , NP VP .
+NP VP .
+SBAR NFP NP VP .
+VBZ NP ADVP VP .
+NP VP . NP VP .
+S : FRAG .
+CC NP VP .
+S , NP VP .
+NP VP . ADVP , PP , NP VP .
+CC NP ADVP VP .
+NP VP .
+CC NP-TMP , NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC SBAR , NP VP .
+S , CC S .
+WHNP SQ .
+ADVP NP VP .
+NP .
+CC NP VP . NP VP .
+ADVP NP VP .
+CC ADVP NP VP .
+VP .
+NP VP .
+NP VP .
+NP VP .
+WHNP SQ .
+CC ADVP NP VP .
+NP VP .
+S CC S .
+UH .
+NP VP .
+NP VP .
+NP : S .
+ADVP NP ADVP VP .
+CC SBAR , NP VP .
+INTJ , NP VP .
+NP : S .
+NP SBAR .
+S , VP NP .
+CC ADVP , SBAR , NP VP .
+SBAR , NP VP . CC VP .
+S , CC S .
+SBAR , NP VP .
+NP VP .
+CC ADVP , NP VP .
+S , CC S .
+WRB IN S .
+NP : S S .
+PP NP PP .
+S : S : CC S .
+NP VP .
+NP VP .
+S : S .
+NP , NP , NP , VP , VP , NP , ADJP , ADJP .
+NP VP . NNP
+NP , ADVP VP .
+NP VP .
+NP : NP
+S , CC S . NNP
+CC NP VP .
+SBAR , PP , VP . SBARQ , SBARQ .
+NP VP .
+NP VP . NP VP .
+SBAR , NP VP .
+NP : S .
+NP VP . VP . VP .
+S , NP VP .
+NP VP .
+PP , NP VP .
+CC S , CC S . NNP
+CC NP VP .
+NP VP .
+CC WHNP SBAR .
+S , CC S .
+WHNP SQ .
+NP VP .
+NP VP .
+ADVP , NP VP .
+CC SBAR NP VP .
+NP VP .
+VBZ NP NP .
+NP VP .
+CC NP VP .
+NP VP .
+S : S .
+NP VP .
+CC NP VP .
+WHNP SQ .
+S , CC S .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP , NP VP .
+NP : S .
+CC ADVP , SBAR , NP VP .
+CC NP VP .
+NP VP .
+ADVP VP . S , CC S .
+CONJP SINV , CC S .
+CC S , VP .
+ADVP , NP VP .
+PP , NP VP . NP VP .
+NP VP . NP VP .
+ADVP NP VP .
+S , S .
+WHNP SQ .
+NP VP .
+NP VP .
+CC NP VP .
+ADVP , NP VP .
+CC NP VP .
+CC NP VP .
+NP : VP .
+CC NP VP .
+IN S . NP VP .
+WHADVP SQ . SBAR : NP VP .
+CC NP VP . NP VP .
+CC NP VP
+VBP NP VP . NP , VP . NNP
+IN S .
+CC ADVP VP NP .
+CC ADVP NP-TMP NP VP .
+NP VP .
+S CC S .
+NP VP .
+CC ADVP , SBAR , NP VP .
+ADVP VP .
+SBAR , NP VP .
+CC NP VP .
+ADVP , VP .
+ADVP , VP .
+NP VP .
+S , NP VP .
+CC NP VP .
+ADVP , NP VP .
+SBAR VP .
+S VP .
+NP VP .
+NP VP .
+S , NP VP .
+NP : FRAG .
+CC S , CC S .
+S , NP VP .
+S , CC S .
+ADVP , INTJ .
+JJ NN . NP VP .
+ADVP NP VP . : NP VP .
+ADVP NP-TMP , PP , NP VP .
+PP , S CC S .
+ADVP , SBAR , NP VP .
+S , CC S .
+ADVP , NP VP .
+S , S , S , CC S .
+S VP NP .
+S , CC S .
+CC S , CC S .
+CC NP VP .
+SBAR NP .
+ADVP , SBAR , NP VP . NNP
+NP VP .
+NP ADVP VP . NNP
+S , SBARQ .
+ADVP , SBAR , NP VP .
+ADVP VP NP .
+NP VP .
+VP . NNP
+NP VP .
+NP VP .
+NP VP .
+VP . NP VP .
+NP-TMP , VP . NNP
+VP .
+ADVP NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP . NNP
+S , S CC S .
+NP VP .
+NP VP .
+CC S CC S .
+PRN WHNP SQ .
+NP VP .
+NP VP .
+NP VP .
+ADVP VP NP , SBAR .
+PRN WHADVP SQ .
+CC ADVP NP VP .
+NP VP . NP VP .
+NP VP .
+CC SBAR NP VP .
+WHNP S .
+NP VP .
+NP VP . NNP
+ADVP SBAR VP .
+NP : S . VP .
+S , CC S .
+S , S , S , S .
+NP-TMP , NP VP . NNP
+NP PRN VP .
+NP VP .
+NP VP .
+CC SBAR , NP VP .
+FRAG NP .
+INTJ , NP VP .
+ADVP , NP VP .
+CC NP VP .
+NP VP . NNP
+NP VP .
+NP VP .
+CC NP VP . NNP
+CC S , VP .
+NP VP .
+ADVP NP VP .
+NP , NP VP .
+ADVP VP .
+PP , NP VP .
+WHADVP FRAG . ADVP , PP , NP VP .
+INTJ , NP VP .
+S , CC S .
+S : SBARQ . : NN NN NN .
+NP VP .
+NP : NP
+ADVP , VP .
+ADVP VP NP .
+ADVP , S , CC S .
+RB . NP VP .
+S CC S .
+VBD NP VP .
+S , NP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+S , FRAG , FRAG .
+NP VP .
+S , CC S .
+ADVP , ADVP , S , ADJP NP .
+NP VP .
+S : S .
+SBAR , ADVP NP VP .
+NP VP . S , CC S .
+NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+CC NP VP .
+S HYPH S .
+CC NP VP .
+CC SBAR , NP VP .
+CC S , CC S .
+CC NP VP .
+PP , NP VP . NP VP .
+NP : PP .
+IN S .
+NP VP .
+NP VP .
+VBZ NP VP .
+PRN S NP VP .
+NP VP . NP VP .
+CC NP VP .
+NP VP . NNP
+VBZ NP SBAR . NNP
+WHNP SQ .
+WHNP SQ .
+CC NP VP .
+S , NP VP . JJ NN .
+NP VP .
+NP VP .
+SBAR , NP VP .
+CC S , CC S .
+S , CC S .
+INTJ , IN S .
+PRN , S : S .
+PP , NP VP .
+S : S .
+SBAR VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+CC S , CC S .
+CC PP NP VP .
+NP VP .
+SBAR , NP VP . ADVP NP VP .
+NP VP . NP VP .
+S , CC SQ
+S : SQ
+CC ADVP NP VP .
+CC NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+SBAR , NP VP .
+PP , S , CC S .
+PP , PP , PP , NP VP . ADVP , NP VP . NP ADVP VP .
+IN NP VP .
+S , CC S .
+ADVP NP VP .
+CC WHNP SQ . VP .
+NP VP . NP VP .
+S CC S .
+CC NP VP .
+CC ADVP , S , CC S .
+CC ADVP NP VP .
+CC NP VP .
+NP , NP , PRN .
+NP VP .
+NP VP .
+CC NP VP . VP .
+ADVP NP PP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP VP . NP VP .
+S , S .
+CC ADVP , NP VP .
+INTJ , SBAR , NP VP .
+INTJ , IN S .
+NP VP . WHADVP .
+SINV , CC S .
+NP , WHNP SQ . NNP
+CC NP VP .
+S , CC S .
+ADVP NP VP .
+SBAR , NP VP . CC NP VP .
+CC S , VP .
+ADVP , NP VP .
+CC NP VP .
+NP VP .
+S , NP VP .
+NP VP .
+PP , NP VP .
+NP : S .
+CC ADVP NP VP .
+NP : SBARQ
+ADVP , SBAR , NP VP .
+NP VP .
+S CC S .
+S , CC S .
+NP VP .
+CC NP VP .
+CC NP VP .
+CC S .
+S CC S .
+VP .
+NP VP .
+VBD NP VP .
+VP .
+INTJ , IN S .
+PP , NP VP .
+NP VP .
+NP ADVP VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+NP PP . NP VP .
+CC NP VP .
+CC , NP NP VP .
+NP VP .
+INTJ , WHNP SQ . WHNP SQ . WHNP SQ .
+NP VP .
+NP VP .
+CC NP VP .
+UH . S : S : S .
+WHNP SQ . NN .
+NP VP .
+VP .
+NP : S .
+NN . VP .
+PP , NP VP . NP VP .
+ADVP , S , NP VP .
+NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+S VP NP .
+NP VP .
+NP VP . NP VP .
+S : S .
+ADVP PP NP ADVP VP .
+CC ADVP NP VP .
+CC , NP VP . S , CC S .
+CC NP VP .
+CC VP .
+CC SBAR , NP VP .
+NP VP .
+S , CC S .
+CC S , CC S , S , CC S .
+NNS .
+SBAR , NP VP .
+NP VP .
+CC NP VP .
+INTJ , ADVP WHADVP SQ .
+WHADVP SQ .
+CC ADVP SBAR , ADVP NP VP .
+INTJ , NP , PP , VP .
+NP VP .
+S , CC S .
+CC NP VP .
+S : S .
+S , CC S . NNP
+NP VP .
+NP VP . PP , NP VP . NNP
+IN S . NNP
+NP VP .
+S , CC S .
+S CC S .
+S CC S .
+CC ADVP NP VP .
+CC NP VP .
+CC S , CC S .
+CC SBAR VP .
+NP VP .
+VBP NP VP .
+NP VP .
+CC VBZ NP PP .
+SBAR , NP VP .
+CC ADVP , NP VP .
+S , NP VP .
+NP VP .
+S , NP VP .
+SBAR , NP VP .
+SBAR , NP ADVP VP .
+CC PP , NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+PP , NP VP .
+CC ADVP NP VP .
+S , CC S .
+NP VP .
+NP VP .
+S , ADVP S . NNP
+CC NP VP . NNP
+CC S , CC S .
+NP VP .
+NP VP .
+FRAG , CC S . NNP
+NP VP .
+ADVP NP VP .
+S , CC S .
+S , CC S .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+NP VP .
+NP VP .
+VP .
+ADVP , NP VP .
+S , CC S .
+WHNP SQ .
+VBZ NP ADJP .
+ADVP , NP VP .
+ADVP VP .
+NP : NP
+S , S , S .
+CC S : S .
+S , S , CC S .
+NP VP .
+ADVP , WHNP SQ .
+S CC S .
+NP VP .
+NP : S .
+S CC S .
+CC SBAR ADVP VP .
+S , CC S .
+ADVP NP VP .
+WHNP SQ .
+PP , NP VP .
+CC NP VP .
+CC , PP , NP VP .
+NP VP .
+NP VP .
+INTJ , NP VP .
+S , CC S . NP VP .
+S , CC S .
+NP VP .
+NP VP . S , NP VP .
+NP VP . NP VP .
+ADVP , WHADVP SQ .
+S , S .
+VBZ NP VP .
+NP VP . NP VP .
+FRAG , CC S .
+SBAR , NP NP-TMP VP .
+NP VP . NNP
+S , NP VP .
+S , NP VP .
+NP VP .
+CC ADVP NP VP .
+S : S . NNP
+ADVP , NP VP .
+NP : S .
+ADVP SBAR VP .
+S , CC S .
+NP VP .
+NP VP .
+NP-TMP , NP VP . NNP
+CC ADVP NP VP .
+ADVP NP VP .
+NP VP .
+S , NP VP .
+FRAG CC S .
+S , CC S .
+ADVP , NP VP .
+ADVP NP VP .
+S , CC S .
+CC NP VP .
+NP , VP .
+FRAG : S .
+NP VP .
+S , NP VP .
+NP VP .
+CC S , CC S .
+NP VP .
+NP VP .
+NP VP .
+S , NP VP .
+ADVP NP VP .
+CC NP VP .
+CC , ADVP , NP VP .
+ADVP NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+CC NP VP .
+PP , S , CC S .
+NP ADVP VP .
+INTJ NP VP .
+ADVP , NP VP .
+S , CC S .
+CC PP , NP VP .
+CC NP VP .
+INTJ , NP VP .
+NP VP .
+NP VP .
+IN NP .
+CC ADVP NP VP .
+CC NP , VP .
+NP VP .
+NP , S , ADVP VP .
+VP . NNP
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+S , NP VP .
+S , CC S .
+NP VP .
+ADVP , NP VP .
+ADVP , NP VP .
+CC SBAR , NP VP .
+S , CC S .
+S , NP VP .
+NP VP .
+WHNP SQ .
+NP ADVP VP .
+PP , NP VP .
+CC NP VP .
+ADVP , SBAR , NP VP .
+ADVP , NP VP .
+CC S , SQ . VP .
+NP VP .
+NP VP .
+CC NP VP . NP VP .
+NP VP .
+S , CC S .
+NP VP . NP , NP .
+NP , NP .
+INTJ , S , NP VP .
+NP VP . VBD NP VP .
+NP , NP VP .
+ADVP , SBAR , PRN , SQ .
+ADVP ADVP NP , S , NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC ADVP NP VP .
+CC ADVP NP VP .
+CC NP ADVP VP .
+NP : S . VP .
+NP VP . S VP .
+CC S , CC S .
+SBAR VP .
+CC NP VP .
+NP PRN VP .
+NP , VP .
+IN S .
+NP VP .
+NP VP .
+NP VP .
+CC ADVP NP .
+NP VP .
+NP VP .
+INTJ , NP VP .
+S , CC S .
+ADVP NP PP .
+PP , NP VP .
+NP VP .
+S : S .
+NP VP .
+PP , NP VP .
+NP VP .
+S , S : S .
+ADVP NP VP .
+CC NP VP .
+CC ADVP NP VP .
+NP VP .
+WHNP SQ . NP VP .
+NP VP .
+S , S : S .
+CC NP VP .
+ADVP ADVP NP VP
+CC NP VP .
+NP VP .
+PP , NP VP .
+NP VP .
+NP , ADVP , PP , NP VP .
+NP VP .
+VP . NNP
+NP VP . NNP
+WHADVP SQ . VBP NP ADJP .
+NP VP . NFP S , S .
+NN .
+NN .
+VP .
+NP VP .
+NP VP .
+NP VP .
+S CC S CC S : S : CC S . NNP
+NP VP .
+S : SBARQ . : NP VP .
+S , NP VP .
+ADVP NP VP .
+NP , ADVP , VP .
+ADVP , NP VP .
+S , CC S .
+NP VP .
+IN S .
+NP NP .
+NP VP .
+S , CC S .
+CC ADVP NP ADVP VP .
+CC NP VP .
+CC SBAR , VP .
+NP VP .
+S , CC S .
+NP VP .
+VP .
+VBZ NP ADJP . VBZ NP VP . NNP
+NP VP .
+S , S , CC S .
+CC PP , NP VP .
+NP VP .
+S , CC S .
+MD NP VP .
+CC SBAR , NP VP .
+CC NP VP .
+NP VP .
+WHNP SQ . NNP
+CC NP VP .
+ADVP , WHNP SQ .
+CC ADVP , NP S . NNP
+NP VP .
+NP VP . NP VP .
+ADVP NP VP .
+WHNP IN S .
+S , NP VP .
+NP VP .
+NP VP .
+NP VP . NP VP .
+CC PP , NP VP .
+CC S , CC S .
+NP : S .
+S , CC S .
+CC S : S .
+S , NP VP .
+NP VP .
+NP VP .
+CC NP VP . NP ADVP VP . NNP
+CC ADVP NP VP .
+CC , ADVP , NP VP .
+CC NP VP . NNP
+S , CC , S , CC S .
+DT JJ NN .
+ADVP PP , VP .
+NP VP .
+NP VP .
+NP VP .
+NP ADVP ADJP .
+NP : S .
+S , CC S .
+NP VP .
+INTJ , VP . S , S , S .
+S , CC S .
+NP VP .
+ADVP NP ADVP VP .
+CC NP VP .
+PP NP .
+PP , NP VP .
+S , CC S .
+CC NP VP .
+NP VP .
+ADVP SBAR , NP ADVP VP .
+NP VP .
+NP VP .
+VP .
+NP , ADVP , VP .
+ADJP , INTJ . NP VP .
+CC NP VP .
+S , NP VP . NP NP PP PP .
+NP VP . NP VP .
+S , NP VP .
+S CC S .
+ADVP NP VP .
+ADVP NP , CC FRAG .
+ADVP , S CC S .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+CC NP VP .
+CC ADVP NP VP .
+NP VP .
+S , CC S .
+NP VP .
+CC ADVP NP VP .
+CC S CC S .
+SBAR , INTJ VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC ADVP NP VP .
+S , CC S .
+ADVP NP VP .
+CC NP VP .
+CC NP VP .
+CC NP VP .
+SBAR , NP VP .
+NP VP .
+NP VP .
+SBAR , NP VP . NNP
+CC NP PRN VP .
+IN S . NP VP . NNP
+S : CC S .
+WHADVP SQ .
+NP VP .
+NP VP .
+WHADVP SQ .
+NP ADVP VP .
+NP VP .
+NP VP .
+CC , PRN , NP VP .
+ADVP NP VP .
+CC S , CC S .
+S : S .
+NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+WHNP SQ .
+SBAR , NP VP .
+CC VP . NNP
+NP ADVP PP .
+NP VP .
+IN S .
+NP VP .
+NP : SBARQ
+WHNP SQ .
+NP , NP , S , NP VP . NNP
+INTJ NP ADVP VP .
+S , FRAG .
+WHADVP SQ .
+NP VP .
+VP .
+FRAG , CC S .
+CC NP VP .
+NP : S
+CC NP VP .
+CC NP PP VP . NP VP .
+NP VP .
+ADVP VP . CC SBAR VP .
+PP , PP , NP VP .
+NP : NP
+NP VP .
+S , CC S .
+S : S .
+NP VP .
+NP VP .
+NP : NP
+ADVP , NP VP . NNP
+ADVP NP VP .
+ADVP NP VP .
+CC NP ADVP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP NP : S .
+INTJ , VP .
+NP ADVP VP .
+NP VP .
+SBAR NP VP .
+NP : S .
+NP : S
+ADVP VP NP , SBAR .
+NP VP .
+NP VP .
+S : FRAG .
+PP , NP VP .
+NP VP .
+NP VP .
+S CC S .
+NP VP . NP VP .
+NP VP . CC SBAR , NP VP . PP , NP VP .
+ADVP , NP VP . CC NP . NP VP . SBAR , WHADVP SQ .
+ADVP , NP VP . CC SBAR , NP VP . NP ADVP VP .
+INTJ NP VP .
+WHNP SQ .
+WHADVP SQ .
+NP VP .
+NP VP .
+ADVP WHADVP SQ .
+VP . VP .
+NP VP .
+PP , SBAR , NP VP .
+NP VP .
+NP VP .
+NP VP . ADJP , NP FRAG .
+ADVP , NP VP . NP VP .
+NP VP .
+CC SBAR , NP VP .
+NP VP .
+VP .
+CC NP ADVP VP .
+PP , NP VP .
+PP , SBAR , NP VP .
+SBAR , NP VP .
+CC S , CC S .
+ADVP PRN , PRN , SQ .
+NP VP .
+NP VP .
+S : S : S .
+NP VP .
+S CC S .
+CC PP , NP VP .
+CC NP VP .
+ADVP , S , CC S .
+ADVP , S , CC S .
+S , CC S .
+CC NP NP VP .
+S , CC S .
+VP . VP . VP .
+CC S . S : S .
+PP , NP .
+SBAR , S : S .
+NP : S .
+WHADVP SQ . S , CC S .
+NP NP . NP VP .
+S : S . NNP
+CC S , S , INTJ , S . NP VP .
+NP VP .
+S S SBARQ NNP
+SBAR , WHNP SQ .
+NP VP . S , NP VP .
+S , NP VP . S : S .
+CC S CC S CC S . NNP
+ADVP NP VP .
+S , CC S .
+INTJ , PP NP .
+ADVP NP VP .
+NP VP .
+ADVP NP VP . NNP
+NP VP .
+CC NP VP .
+CC ADVP , NP VP .
+CC NP VP .
+S , CC S .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+SBAR , NP VP .
+ADVP , ADVP NP VP .
+ADVP , NP VP .
+CC NP VP .
+S , S .
+CC NP VP . NNP
+ADVP , ADVP , VP .
+NP VP . NNP
+CC SBAR , NP VP .
+S , NP VP .
+ADVP VP .
+NP VP .
+SQ , CC SQ .
+NP : S
+SBAR VP .
+NP , VP .
+CC NP , NP VP .
+S : S .
+CC MD NP VP .
+CC NP VP .
+S , NP . NNP
+NP , NP .
+CC SBAR VP .
+NP VP .
+NP VP .
+SINV , S .
+S , CC S .
+ADVP , NP VP .
+CC NP VP . NNP
+SBAR NP VP . WHADVP .
+PP , NP VP .
+PP , S VP .
+SBAR , NP VP .
+NP VP .
+S : S : S .
+FRAG , CC S .
+CC VBZ NP NP SBAR .
+ADVP PRN SBAR , NP VP .
+NP : PP .
+NP ADVP VP .
+ADVP , NP VP .
+NP VP . NNP
+NP VP .
+NP VP .
+ADVP ADVP , NP VP .
+S , NP VP .
+SBAR , NP VP . SBAR VP .
+NP VP .
+NP NP VP .
+FRAG SQ .
+NP : VP . NP , ADVP , VP .
+NP VP : .
+NP : NP .
+NP VP . NP ADVP . NP VP . NN NN .
+WHADVP . IN S .
+NP VP .
+CC S , CC S .
+RB RB . NP , NP ADVP .
+S : S .
+ADVP WHADVP SQ .
+S , CC S .
+S , CC S .
+NP : S .
+NP VP .
+CC NP VP .
+NP VP .
+NP : S .
+ADVP VP .
+NP : S . NP VP .
+FRAG : S .
+NP VP .
+SBAR VP . NP VP .
+CC NP VP .
+NP VP . NNP
+NP VP .
+FRAG , S .
+CC NP VP .
+CC S : S . NNP
+CC NP PRN VP .
+NP VP .
+CC NP ADVP VP .
+S , NP VP .
+CC ADVP , NP VP . NNP
+S , NP VP .
+S , RB S .
+CC NP VP .
+INTJ , NP VP .
+NP VP .
+NP VP . NP PP .
+ADVP WHNP SQ .
+NP VP .
+ADVP , S , CC S .
+INTJ , NP VP .
+VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+S : WHNP SQ .
+NP VP .
+S , NP VP .
+NP VP .
+PP , NP VP . NNP
+CC , SBAR VP .
+CC NP VP .
+CC , S , NP VP . NNP
+NP VP .
+NP , NP .
+S , CC S .
+CC NP VP .
+NP VP .
+NP VP .
+ADVP NP VP .
+SBAR NP .
+ADVP NP VP .
+S VP .
+CC NP-TMP NP VP .
+CC NP VP .
+S , CC S .
+NP ADVP VP .
+S : S .
+NP VP .
+SBAR VP .
+ADVP , NP VP .
+S , NP VP .
+S , SQ . NNP
+NP VP . NP VP . NP VP . NNP
+S CC , S , S , ADVP , S , CC S . NP VP .
+NP VP . NNP
+WP IN S .
+NP VP .
+S , S .
+SBAR , NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+VBP NP VP .
+NP VP .
+SBAR NP VP .
+ADVP NP VP .
+ADVP , SBAR , NP VP .
+S , NP ADVP VP .
+NP VP .
+S , CC S .
+NP : NP
+CC S : S .
+WHNP SQ . WHNP SQ .
+NP VP .
+VP .
+NP : NP .
+SBAR , NP VP .
+S CC S .
+S , NP VP .
+ADVP , NP VP .
+NP VP .
+VP .
+CC NP VP .
+ADVP NP ADVP VP . NNP
+SBAR , NP VP . NNP
+ADVP , NP ADVP ADVP . NNP
+CC NP VP .
+NP VP .
+NP VP .
+S , CC S . CC NP VP .
+ADVP NP VP .
+NP VP .
+NP CC NP .
+S , S .
+S VP NP .
+S : S .
+S , NP VP .
+CC NP VP .
+ADVP , S , CC S .
+SQ , S , S . NNP
+ADVP ADVP , ADVP NP VP . NNP
+CC ADVP NP VP .
+VP . NP VP .
+NP PP .
+NP VP .
+CC NP VP .
+PP , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+CC NP VP .
+CC NP ADVP VP .
+NP ADVP ADVP VP .
+FRAG , NP .
+S , CC S .
+CC NP VP .
+NP : SQ
+ADVP SBAR , NP VP .
+S , NP VP .
+S , CC S .
+S , CC S .
+NP VP .
+NP , NP-TMP , NP VP .
+ADVP NP VP .
+NP VP .
+NP VP .
+NP VP .
+ADVP , ADVP , NP VP .
+ADJP S .
+CC PP , SBAR , NP VP .
+NP VP . NP VP .
+NP : S .
+ADVP , NP .
+CC ADVP , SBAR , NP VP .
+ADVP , NP VP .
+SBAR WHADVP SQ .
+ADVP , NP VP .
+ADVP , NP VP .
+ADVP , S , NP VP .
+ADVP NP VP .
+S , S , S .
+CC ADVP NP VP .
+S , CC S .
+ADJP VP NP .
+CC NP VP .
+MD NP VP .
+PP , NP VP .
+VBZ NP SBAR .
+NP PP PP .
+SBAR , NP VP .
+S , S , S : CC S .
+S : S .
+S , S , S . NP VP .
+ADVP NP VP .
+PRP$ NN .
+NP VP .
+NP VP . NNP
+ADVP NP VP .
+S : S .
+CC NP . NP VP .
+CC S , CC S . NNP
+ADVP , S , CC S .
+we &apos;ve been working on this , actually , as an alternative energy source , starting way back with john@@_son &amp; amp ; john@@_son , to run an i@@_bot , because the best bat@@_ter@@_ies you could get -- 10 wat@@_t-@@_hours per kil@@_ogra@@_m in lead , 20 wat@@_t-@@_hours per kil@@_ogra@@_m ni@@_ck@@_el@@_-@@_c@@_ad@@_mi@@_um , 40 wat@@_t-@@_hours per kil@@_ogra@@_m in ni@@_ck@@_el@@_-@@_metal hy@@_dri@@_de , 60 wat@@_t-@@_hours per kil@@_ogra@@_m in li@@_thi@@_um , 8@@_,@@_7@@_50 wat@@_t-@@_hours of energy in every kil@@_ogra@@_m of pro@@_pan@@_e or gas@@_ol@@_ine -- which is why nobody dri@@_ves electric cars .
+NP VP . NP VP . NNP
+ADVP , SBAR , SBAR , NP VP .
+CC NP VP .
+S , CC S .
+CC ADVP NP VP .
+CC ADVP NP VP . JJ NN .
+NP VP .
+ADVP VP .
+S : S : S : S , CC S .
+CC WHNP S .
+NP VP .
+NP VP .
+CC ADVP NP VP .
+CC ADVP NP VP .
+CC PP , NP VP .
+VP .
+NP VP .
+S , CC S . NNP
+S , CC S .
+CC NP VP .
+S , CC S .
+NP VP .
+NP VP .
+NP VP .
+NP ADVP VP .
+ADVP , NP VP .
+S , S , CC S .
+NP VP .
+NP VP .
+NP VP .
+INTJ ADVP . NP VP . NP VP .
+CC S S , S . NNP
+CC NP VP . NNP
+NP VP .
+S , CC S .
+PP PRN NP VP .
+IN S .
+NP : S .
+CC NP .
+ADVP , S , CC S .
+WHADVP SQ .
+NP VP . NP VP .
+S , CC S .
+NP : NP . NP VP . NNP
+ADVP NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+CC NP VP .
+CC ADVP , S .
+S , CC S .
+WHADVP SQ .
+VP .
+NP VP .
+S VP NP .
+S , CC S .
+ADVP PRN NP VP .
+ADVP , NP VP . IN S . NNP
+S : NP .
+DT JJ NN .
+CC NP VP .
+NP VP . WHNP NP .
+CC NP VP .
+CC NP VP .
+ADVP , S .
+ADVP NP VP . NP VP .
+S , RB S . NNP
+WHNP SQ .
+NP S . NNP
+VP .
+CC S : S . NNP
+CC ADVP , NP : S .
+ADVP , NP VP .
+NP VP .
+WHADVP SQ . NNP
+CC S , CC S . WHNP S . PP , SBAR .
+SBAR VP .
+CC ADVP , NP VP . NP VP .
+NP VP .
+S , CC S .
+ADVP NP VP .
+S , CC S .
+SBAR , NP VP .
+VP .
+ADJP .
+S , SQ .
+CC ADVP NP VP . NP VP . NP VP .
+ADVP PRN NP VP .
+NP VP . NP VP .
+NAC , NP VP . NNP
+S , CC S .
+CC ADVP NP VP .
+CC NP VP .
+NP VP .
+S , NP SBAR , NP VP . NNP
+CC S , CC S .
+NP VP .
+NP VP .
+CC NP VP .
+ADVP NP VP .
+ADVP VP NP . NP VP .
+CC NP NP VP . RB .
+CC NP VP .
+CC ADVP NP VP .
+NP VP . NP VP . CC ADVP ADVP .
+CC NP VP .
+S : S .
+NP VP .
+WHNP SQ . SBAR VP .
+CC SBAR , NP VP .
+NP , FRAG .
+NP VP . S , VP NP .
+NP ADVP VP . NP VP .
+CC NP VP .
+ADVP NP VP .
+CC ADVP NP , SBAR , NP VP .
+CC SBAR NP VP .
+CC PP , NP VP .
+NP VP .
+S , CC S .
+CC PP VP , VP .
+CC NP .
+CC NP VP .
+ADVP , NP VP .
+ADVP NP VP .
+CC ADVP NP VP
+ADVP VP .
+S , CC S .
+ADVP VP .
+ADVP VBZ NP NP . , ADJP . ?
+CC NP VP .
+NP VP .
+CC NP VP .
+ADVP , NP VP .
+CC SBAR , VP .
+NP VP .
+CC SBAR NP-TMP , NP VP .
+NP VP .
+NP , VP .
+SBAR , WHADVP SQ .
+ADVP , SBAR , NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP VP .
+VP .
+INTJ , ADJP .
+CC SBAR .
+NP VP . NP VP .
+CC PP , PRN , VP .
+ADVP , NP VP .
+NP VP .
+NP , NP VP .
+S , NP VP .
+NP VP . VP .
+CC NP VP .
+NP VP .
+CC ADVP NP NP .
+CC NP VP .
+NP VP .
+CC ADVP , S . INTJ VP .
+S , NP VP .
+NP VP .
+S CC S . CC NP VP .
+NP VP .
+NP VP .
+S , CC S .
+S : S .
+S , NP VP .
+S , CC S .
+CC S VP .
+NP VP .
+CC ADVP ADVP VP .
+CC PP , NP VP .
+NP VP .
+S , CC S .
+ADVP NP VP .
+ADVP , NP VP .
+ADJP , CC S .
+ADVP VBZ NP ADJP PP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , NP VP .
+NP , NP VP .
+NP VP .
+NP : S .
+INTJ , NP .
+S , CC , S , S : S .
+CC NP .
+S , CC S .
+S , NP VP . NNP
+NP VP .
+S PRN CC S .
+S : S .
+CC S , CC S .
+CC NP VP
+NP VP .
+ADVP NP VP . NNP
+NP VP . WHNP .
+NP VP .
+ADVP , SBAR , NP VP .
+CC WHNP SBAR .
+ADVP VP NP .
+SBAR , NP VP .
+CC ADVP PP , NP ADVP VP .
+CC NP VP .
+ADVP SBAR VP .
+ADVP , NP VP .
+NP VP . S CC , S . NP VP .
+NP VP . VP . NP-TMP , NP VP .
+NP VP .
+NP VP .
+NP VP . NNP
+RB JJ . JJ . NP PP . VP .
+ADVP VP .
+SBAR , NP VP .
+ADVP NP VP .
+S , CC S .
+CC PRN NP ADVP VP .
+CC NP VP .
+PP , NP VP . NP VP . NP , NP
+CC , INTJ .
+NP VP .
+CC ADVP PP , NP VP .
+ADVP WHNP SQ .
+ADVP NP VP .
+NP VP .
+NP : NP
+CC NP VP .
+CC PP , NP ADVP VP .
+CC NP VP WHADVP SQ .
+ADVP NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , CC S .
+CC NP VP .
+CC NP VP .
+CC S , S .
+NP VP .
+WHADVP SQ .
+ADVP NP VP .
+CC NP VP .
+S , NP VP .
+S PRN RB S .
+CC NP VP .
+S HYPH S .
+CC PP , NP VP .
+NP VP .
+NP VP .
+NP VP .
+NP VP .
+S , PP , NP VP .
+ADVP NP VP .
+NP VP .
+NP VP .
+NP VP . NP VP .
+NP ADVP VP .
+VP . NP VP .
+S , CC S .
+NP VP .
+ADVP NP VP .
+NP VP .
+NP VP . WHADVP SQ . NP VP . NP , NP
+PRN , WHNP SQ . NNP
+NP PP .
+NP VP .
+CC NP VP .
+NP VP .
+NP .
+S , CC S .
+S : S : S .
+NP VP .
+NP VP .
+CC NP VP .
+NP : S .
+NP VP .
+NP VP .
+ADVP , WHADVP SQ .
+S , CC S .
+PP , S , S , CC S .
+CC SBAR , NP ADVP VP .
+PP , NP VP .
+CC S VP .
+NP VP . NNP
+S , SQ . : NP , PP , NP VP .
+VP .
+NP VP .
+NP VP .
+VP : NFP PP .
+NP : PRN , S . RB RB .
+NP : S .
+MD NP ADVP VP .
+NP : NP .
+NP VP .
+NP : S .
+CC NP VP .
+SBAR , S , NP VP .
+NP VP . NP VP .
+SBAR , NP VP . NP ADVP VP .
+ADVP , NP VP .
+S , NP VP .
+S , CC S .
+PP , PP NP VP .
+NP VP .
+NP VP . NP VP .
+NP VP .
+NP VP .
+NP .
+NP VP .
+ADVP , FRAG , CC S .
+CC NP VP .
+ADVP , S , CC S .
+CC ADVP VP . NNP
+NP ADVP PP . CC NP VP .
+ADVP WHADVP SQ . NP VP .
+S , S , CC S .
+CC NP VP .
+ADVP , NP VP .
+NP VP .
+PP , NP ADVP VP . NP VP .
+NP VP .
+SBAR , S : S .
+CC S VP .
+NP VP .
+ADVP NP VP .
+ADVP NP VP .
+S : S .
+S : CC S .
+VP . NP VP .
+NP : S .
+NP NP VP .
+VP .
+S CC S .
+NP VP .
+CC INTJ , NP ADVP VP .
+NP INTJ NP VP .
+CC SBAR , NP VP .
+NP VP .
+FRAG , SQ .
+INTJ , NP-TMP , NP VP .
+ADVP NP VP .
+NP VP . S VP .
+ADVP , PP , NP VP .
+ADVP , NP VP .
+CC PRN NP VP .
+NP VP .
+ADVP , NP VP .
+VP .
+NP VP .
+CC ADVP NP .
+NP VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP VP .
+NP ADVP VP .
+NP VP .
+NP VP .
+NP VP .
+NP : SBARQ
+S , CC S .
+S , CC S .
+S , NP VP .
+CC NP VP . NP VP .
+SBAR , NP VP .
+CC NP VP INTJ ADVP S .
+NP VP .
+ADVP NP VP .
+CC SBAR NP VP .
+NP VP .
+ADVP NP VP .
+CC NP VP .
+S , CC SINV .
+NP : S
+NP VP .
+NP VP . VP . NNP
+CC ADVP VP NP .
+ADVP NP VP . NNP
+ADVP NP VP . S : S .
+NP VP .
+CC ADVP NP VP .
+NP : SBARQ
+S , CC S .
+NP , NP .
+NP VP .
+ADVP , SBAR : NP : VP .
+ADVP , WHADVP SQ .
+S , CC S .
+S , CC S .
+S , CC S .
+VBZ NP VP .
+WHADVP FRAG . NP VP . VP .
+S , CC S .
+ADVP SBAR VP .
+NP VP . NP VP .
+NP VP .
+NP VP .
+NP : NP
+CC ADVP SBAR , NP VP .
+NP VP . NNP
+CC PP SBAR , NP VP .
+CC NP ADVP VP .
+NP VP .
+VP .
+NP VP .
+CC NP VP .
+NP VP .
+NP : S
+S , CC S .
+SBAR , NP VP .
+NP : SQ .
+CC ADVP ADVP VP .
+IN S .
+CC ADVP SBAR , ADVP NP VP .
+ADVP WHADVP SQ .
+NP VP .
+S , CC S .
+NP VP .
+ADVP NP VP .
+NP ADVP .
+CC NP ADVP VP .
+NP ADVP VP .
+VP .
+NP VP .
+VP .
+S , CC S , CC S .
+NP VP .
+S , CC S .
+SBAR , NP VP .
+NP VP .
+NP VP .
+S , S , CC S .
+S , CC S .
+WHNP PP . WHADVP SQ .
+FRAG , S .
+NP VP . ADVP VP .
+NP VP . S , CC S .
+NP VP .
+NP VP .
+NP VP .
+NP : S .
+CC NP VP .
+NP : S
+NP VP .
+ADVP NP ADVP VP .
+SBAR PRN NP VP .
+SBAR , NP VP .
+SBAR , NP VP .
+NP VP .
+PP , NP VP .
+S , VP , CC S . NNP
+S , CC S .
+NP VP .
+NP VP .
+WHADVP SQ .
+NP VP .
+NP PRN VP .
+ADVP SBAR , NP VP .
+CC NP VP .
+WP IN S .
+CC NP-TMP , NP VP .
+NP VP .
+WHNP SQ .
+NP VP .
+NP VP . NP VP . NNP
+SBAR , NP ADVP VP . NNP
+NP VP .
+NP : NP
+CC S : S . NP VP . S CC S .
+S , CC S .
+CC NP VP .
+CC VP .
+CC ADVP NP VP .
+CC NP PP .
+INTJ NP VP .
+NP : S .
+NP VP .
+VP .
+NP VP .
+SBAR NP VP .
+NP VP .
+CC NP VP .
+INTJ NP , PP .
+VBP NP VP .
+MD NP VP .
+S CC S .
+VP .
+NP VP .
+S , NP VP .
+NP VP .
+NNS .
+ADVP , NP VP . ADVP , ADJP .
+CC NP VP .
+VP .
+CC ADVP NP VP .
+ADVP NP VP .
+S : S .
+CC NP VP .
+S , CC S .
+VP . VP .
+S : S .
+IN S . NP VP .
+NP VP . S , NP VP .
+CC ADVP NP NP .
+PP , NP VP .
+NP , NP .
+IN NP VP .
+ADVP , NP VP .
+SBARQ , CC SBARQ . S HYPH S .
+NP , ADVP , VP .
+NP VP .
+UH .
+CC NP VP .
+ADVP NP VP .
+NP VP .
+INTJ VP .
+ADVP , ADVP NP VP .
+ADVP VP NP .
+S , NP VP .
+NP ADVP VP .
+ADVP , WHNP SBAR .
+S CC S .
+S , NP VP .
+ADVP NP VP .
+S , VP NP .
+NP : S . S : S .
+CC ADVP PP , NP VP .
+CC NP VP .
+NP : NP .
+SINV , S .
+NP VP .
+NP VP .
+S , S : SBAR CC S .
