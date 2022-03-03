@@ -104,7 +104,7 @@ All steps in Section `2. Prepare data and environments` need to sucessfully fini
 ##  License
 MIT-licensed. 
 
-## Citation
+<!-- ## Citation
 
 Please cite as:
 
@@ -123,4 +123,4 @@ Please cite as:
                Kitakyushu, Japan, July 19 – July 22, 2022},
   year      = {2022}
 }
-``` 
+```  -->
