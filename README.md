@@ -45,10 +45,10 @@ The files in path `data/iwslt14deen` can be coppied from our provided Supplement
   source activate nmt_py38_env/
   pip install -r ./requirements.txt
   ``` 
-- download the stanford nlp library [link](http://nlp.stanford.edu/software/stanford-corenlp-4.0.0.zip) and all necessary corresponding models [link](http://nlp.stanford.edu/software/stanford-corenlp-4.0.0-models-german.jar) (e.g. [german](http://nlp.stanford.edu/software/stanford-corenlp-4.0.0-models-german.jar), french, ...)
+- download the stanford nlp library [link](http://nlp.stanford.edu/software/stanford-corenlp-4.0.0.zip) (or newest version in [newest link](http://nlp.stanford.edu/software/stanford-corenlp-latest.zip) ) and all necessary corresponding models [link](http://nlp.stanford.edu/software/stanford-corenlp-4.0.0-models-german.jar) (e.g. [german](http://nlp.stanford.edu/software/stanford-corenlp-4.0.0-models-german.jar), french, ...)
 - unzip the standford as name in folder structure (if you download stanford-lib new version, please rename to the same in folder structure information `./nmt_py38_env/stanford-corenlp-4.0.0/`)
   ```bash  
-  wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip (http://nlp.stanford.edu/software/stanford-corenlp-4.0.0.zip)&& unzip stanford-corenlp-latest.zip
+  wget http://nlp.stanford.edu/software/stanford-corenlp-4.0.0.zip && unzip stanford-corenlp-4.0.0.zip
   mv stanford-corenlp-4.0.0 nmt_py38_env/stanford-corenlp-4.0.0 # note: the stanford corenlp library name maybe different in template  stanford-corenlp-x.x.x, therefore, pls move it to the envs directory in path "nmt_py38_env/stanford-corenlp-4.0.0" for correct path in our scripts 
   ```
 - download, preprocess and unzip the necessary data `./data/iwslt14deen`. Note: this code need 6 files above for each dataset.
