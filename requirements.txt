@@ -15,3 +15,6 @@ stanfordcorenlp
 openpyxl
 sacrebleu==1.5.1
 fairseq==0.10.2
+flask
+mosestokenizer
+subword-nmt

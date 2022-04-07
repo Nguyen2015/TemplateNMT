@@ -1,0 +1,37 @@
+[
+   
+    {
+        "translation_info": {
+           "srclang" : "de",
+           "tgtlang" : "en_pred_probt",
+           "modelid" : "transformer"
+        },
+        "model_info": {
+            "model_name_or_path": "/home/s1920413/nmt/data/iwslt14deen/f1_probt/",
+            "checkpoint_file": "averaged.pt",
+            "data_name_or_path": "./data-bin/",
+            "bpe": "subword_nmt",
+            "bpe_codes": "./data/iwslt14deen/code"
+        }
+    },
+    {
+        "translation_info": {
+           "srclang" : "de",
+           "tgtlang" : "en",
+           "template" : "en_pred_probt",
+           "modelid" : "template-transformer"
+        },
+        "model_info": {
+            "data_path": "data/iwslt14deen/tgt-probt-deen-sota/data-bin",
+            "source-lang": "de",
+            "target-lang": "en",
+            "path": "data/iwslt14deen/tgt-probt-deen-sota/averaged.pt",
+            "task": "template_translation",
+            "template-type": "en_pred_probt",
+            "beam": "5",
+            "user-dir": "/home/s1920413/syntaxNMT/src/fairseqSyntaxNMT",
+            "bpe": "subword_nmt",
+            "bpe-codes": "./data/iwslt14deen/code"
+        }
+    }
+]

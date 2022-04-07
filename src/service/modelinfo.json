@@ -1,0 +1,45 @@
+[
+   
+    {
+        "translation_info": {
+           "srclang" : "en",
+           "tgtlang" : "vi",
+           "modelid" : "transformer"
+        },
+        "model_info": {
+            "model_name_or_path": "data/iwslt15envi/org-envi-sota/",
+            "checkpoint_file": "averaged.pt",
+            "data_name_or_path": "./data-bin/",
+            "bpe": "subword_nmt",
+            "bpe_codes": "data/iwslt15envi/bpe-codes"
+        }
+    },
+    {
+        "translation_info": {
+           "srclang" : "vi",
+           "tgtlang" : "en",
+           "modelid" : "transformer"
+        },
+        "model_info": {
+            "model_name_or_path": "data/iwslt15envi/org-vien-sota/",
+            "checkpoint_file": "averaged.pt",
+            "data_name_or_path": "./data-bin/",
+            "bpe": "subword_nmt",
+            "bpe_codes": "data/iwslt15envi/bpe-codes"
+        }
+    },
+    {
+        "translation_info": {
+           "srclang" : "de",
+           "tgtlang" : "en",
+           "modelid" : "transformer"
+        },
+        "model_info": {
+            "model_name_or_path": "data/iwslt14deen/org-deen-sota/",
+            "checkpoint_file": "averaged.pt",
+            "data_name_or_path": "./data-bin/",
+            "bpe": "subword_nmt",
+            "bpe_codes": "./data/iwslt14deen/code"
+        }
+    }
+]
