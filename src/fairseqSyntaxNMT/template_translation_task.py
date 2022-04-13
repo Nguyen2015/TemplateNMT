@@ -15,6 +15,7 @@ from fairseq.data import (
     data_utils, Dictionary, ConcatDataset,
     IndexedRawTextDataset, IndexedCachedDataset, IndexedDataset
 )
+from fairseq.data.language_pair_dataset import LanguagePairDataset
 from fairseq.tasks import register_task
 from fairseq.tasks.translation import TranslationTask
 
@@ -152,7 +153,24 @@ class TemplateTranslationTask(TranslationTask):
             max_target_positions=self.args.max_target_positions,
         )
 
-        
+    def build_dataset_for_inference(self, src_tokens, src_lengths, template_tokens, template_tokens_sizes, constraints=None):
+        return TemplateLanguagePairDataset(
+            src_tokens, src_lengths, self.src_dict,
+            tgt_dict=self.tgt_dict,
+            template_tokens=template_tokens, 
+            template_tokens_sizes=template_tokens_sizes, 
+            template_tokens_dict=self.template_dict,
+            constraints=constraints
+        )
+
+        # return LanguagePairDataset(
+        #     src_tokens,
+        #     src_lengths,
+        #     self.source_dictionary,
+        #     tgt_dict=self.target_dictionary,
+        #     constraints=constraints,
+        # )
+
     def max_positions(self):
         """Return the max sentence length allowed by the task."""
         return (self.args.max_source_positions, self.args.max_target_positions)

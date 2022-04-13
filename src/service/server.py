@@ -68,17 +68,17 @@ def __translate(src_sent, src_lang, tgt_lang, model_id, template=None):
                 pass
 
             tgt_sent = trained_model[translation_info].translate(src_sent)
-            tgt_sent = tgt_sent.replace("@@ ", "")
             optional_info = None
             if isinstance(tgt_sent, tuple):
                 tgt_sent, optional_info = tgt_sent[0], tgt_sent[1]
+            tgt_sent = tgt_sent.replace("@@ ", "")
             out = {'result': tgt_sent,
-                   'optional_info': optional_info,
-                   }
+                    'optional_info': optional_info,
+                    }
         else:
             out = {'result': None,
-                   'optional_info': 'model "{}" is not found'.format(translation_info),
-                   }
+                    'optional_info': 'model "{}" is not found'.format(translation_info),
+                    }
     except Exception as e:
         print(e)
         out = {'result': None,

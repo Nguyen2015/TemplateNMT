@@ -111,7 +111,7 @@ class TemplateLanguagePairDataset(FairseqDataset):
         tgt=None, tgt_sizes=None, tgt_dict=None,
         template_tokens=None, template_tokens_sizes=None, template_tokens_dict=None,
         left_pad_source=True, left_pad_target=False,
-        max_source_positions=1024, max_target_positions=1024,
+        max_source_positions=1024, max_target_positions=1024, constraints=None,
         shuffle=True, input_feeding=True, remove_eos_from_source=False, append_eos_to_target=False,
     ):
         if tgt_dict is not None:
@@ -135,6 +135,7 @@ class TemplateLanguagePairDataset(FairseqDataset):
         self.input_feeding = input_feeding
         self.remove_eos_from_source = remove_eos_from_source
         self.append_eos_to_target = append_eos_to_target
+        self.constraints = constraints
 
     def __getitem__(self, index):
         tgt_item = self.tgt[index] if self.tgt is not None else None

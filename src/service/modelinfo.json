@@ -1,5 +1,4 @@
 [
-   
     {
         "translation_info": {
            "srclang" : "en",
@@ -28,18 +27,38 @@
             "bpe_codes": "data/iwslt15envi/bpe-codes"
         }
     },
-    {
-        "translation_info": {
-           "srclang" : "de",
-           "tgtlang" : "en",
+    {      
+	"translation_info": {
+           "srclang" : "en",
+           "tgtlang" : "vi_pred_probt",
            "modelid" : "transformer"
         },
         "model_info": {
-            "model_name_or_path": "data/iwslt14deen/org-deen-sota/",
+            "model_name_or_path": "data/iwslt15envi/f1_probt/",
             "checkpoint_file": "averaged.pt",
             "data_name_or_path": "./data-bin/",
             "bpe": "subword_nmt",
-            "bpe_codes": "./data/iwslt14deen/code"
+            "bpe_codes": "data/iwslt15envi/bpe-codes"
+        }
+    },
+    {
+        "translation_info": {
+           "srclang" : "en",
+           "tgtlang" : "vi",
+           "template" : "vi_pred_probt",
+           "modelid" : "template-transformer"
+        },
+        "model_info": {
+            "data_path": "data/iwslt15envi/tgt-probt/data-bin",
+            "source-lang": "en",
+            "target-lang": "vi",
+            "path": "data/iwslt15envi/tgt-probt/averaged.pt",
+            "task": "template_translation",
+            "template-type": "vi_pred_probt",
+            "beam": "5",
+            "user-dir": "./src/fairseqSyntaxNMT/",
+            "bpe": "subword_nmt",
+            "bpe-codes": "data/iwslt15envi/bpe-codes"
         }
     }
 ]
